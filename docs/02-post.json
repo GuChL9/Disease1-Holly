@@ -1,0 +1,496 @@
+{
+  "title": "讨论课2课后测",
+  "author": [],
+  "description": "原卷未附答案, 答案由整理者补充, 个别存疑题不自动判分",
+  "mcqs": {
+    "description": "单选题",
+    "questions": [
+      {
+        "question_id": "d21b6115-915e-40c4-bb28-7cff61faebe3",
+        "question": [
+          {
+            "type": "text",
+            "content": "COPD患者“呼气相延长, 肺过度充气”的病理生理基础是:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "肺弹性回缩力增加",
+            "correct": false,
+            "option_id": "acf0a4ed-3c99-480e-afb2-b6990f4b3136"
+          },
+          {
+            "type": "text",
+            "content": "小气道炎症狭窄塌陷+肺实质弹性回缩力下降, 呼气阻力增加, 气体滞留",
+            "correct": true,
+            "option_id": "e7ff56cb-afaf-42e6-b6af-3341a2cc644c"
+          },
+          {
+            "type": "text",
+            "content": "肺表面活性物质大量生成",
+            "correct": false,
+            "option_id": "6e9fd22d-8ed4-44c1-9acc-a451d2927a17"
+          },
+          {
+            "type": "text",
+            "content": "胸壁顺应性降低为主要原因",
+            "correct": false,
+            "option_id": "17ca7599-45ac-4483-99e0-0dd654049d80"
+          },
+          {
+            "type": "text",
+            "content": "肺动脉高压直接导致",
+            "correct": false,
+            "option_id": "eb768cfb-5aef-4a74-acd1-db9d10aef72a"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ讨论课2课后测原始试题照片",
+            "locator": "第1题",
+            "note": "原卷照片未附答案; 判分参考答案由整理者补充, 待课程组确认"
+          },
+          {
+            "title": "GOLD 2026 COPD报告",
+            "url": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-REPORT-2026-v1.3-8Dec2025_WMV2.pdf"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "小气道炎症、狭窄及塌陷与肺弹性回缩力下降均可造成呼气气流受限和气体滞留, 产生过度充气。"
+          }
+        ]
+      },
+      {
+        "question_id": "198f348f-b1c8-45c2-8e94-7244a57a9fdb",
+        "question": [
+          {
+            "type": "text",
+            "content": "GOLD肺功能分级中, “中度”气流受限(GOLD 2级)指支气管舒张剂后:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "FEV1≥80%预计值",
+            "correct": false,
+            "option_id": "0c84485b-7775-4570-9643-b83c78422b2e"
+          },
+          {
+            "type": "text",
+            "content": "FEV1为50%~79%预计值",
+            "correct": true,
+            "option_id": "ebf6f35e-9057-4470-87ad-51ea9a0f4161"
+          },
+          {
+            "type": "text",
+            "content": "FEV1为30%~49%预计值",
+            "correct": false,
+            "option_id": "f4de97f5-875b-4ef6-9c82-d767ef72118f"
+          },
+          {
+            "type": "text",
+            "content": "FEV1<30%预计值",
+            "correct": false,
+            "option_id": "afd70f2c-2445-476d-992d-84fc91f61e3f"
+          },
+          {
+            "type": "text",
+            "content": "FEV1/FVC为60%~70%",
+            "correct": false,
+            "option_id": "3e6e23df-1b4b-4c0a-8200-5c262630e31b"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ讨论课2课后测原始试题照片",
+            "locator": "第2题",
+            "note": "原卷照片未附答案; 判分参考答案由整理者补充, 待课程组确认"
+          },
+          {
+            "title": "GOLD 2026 COPD报告",
+            "url": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-REPORT-2026-v1.3-8Dec2025_WMV2.pdf"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "已确认气流阻塞的前提下, GOLD 2对应支气管舒张剂后FEV₁为预计值的50%至不足80%, B为最接近的选项; 分级还要求参考FEV₁/FVC。"
+          }
+        ]
+      },
+      {
+        "question_id": "edb0281b-b78b-4188-8fbd-98c8c3d710e8",
+        "question": [
+          {
+            "type": "text",
+            "content": "关于COPD与哮喘的肺功能鉴别, 正确的是:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "COPD患者DLCO降低, 哮喘患者DLCO正常或升高",
+            "correct": false,
+            "option_id": "bc3e51db-099e-4d29-af10-0acf6b6aac50"
+          },
+          {
+            "type": "text",
+            "content": "COPD患者舒张试验必定阴性",
+            "correct": false,
+            "option_id": "14edcdd5-11c6-46d9-9fc4-55c1e06f7c06"
+          },
+          {
+            "type": "text",
+            "content": "哮喘患者RV/TLC必定降低",
+            "correct": false,
+            "option_id": "05e531cf-d0aa-4e61-8103-e45e5dfa4cef"
+          },
+          {
+            "type": "text",
+            "content": "肺量计正常即可排除哮喘",
+            "correct": false,
+            "option_id": "87c328a8-b9d4-4124-8073-f880b7487b9d"
+          },
+          {
+            "type": "text",
+            "content": "FEV1下降速度是两者的决定性鉴别点",
+            "correct": false,
+            "option_id": "b1d9cf95-a4aa-42f9-b6f0-27bafa7f0583"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ讨论课2课后测原始试题照片",
+            "locator": "第3题",
+            "note": "原卷照片未附答案; 原题表述存在疑点, 不自动判分, 具体见解析"
+          },
+          {
+            "title": "ATS肺功能判读指南",
+            "url": "https://www.thoracic.org/professionals/career-development/ats-virtual-network/resources/2021-rbc-pft-interpretation-card.pdf"
+          },
+          {
+            "title": "COPD患者DLCO队列研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27293847/"
+          }
+        ],
+        "answer_status": "unavailable",
+        "selection_mode": "single",
+        "explanation": [
+          {
+            "type": "text",
+            "content": "A可能是命题意图: 肺气肿患者DLCO常下降, 哮喘患者通常正常或偏高。但COPD包含不同表型, 并非所有COPD患者DLCO均下降, 而其他因素也会影响DLCO。A缺少必要限定, 暂不判分。"
+          }
+        ]
+      },
+      {
+        "question_id": "cbafcd48-9f81-43a9-8b44-5dae82084f0a",
+        "question": [
+          {
+            "type": "text",
+            "content": "关于吸入糖皮质激素(ICS)在COPD中的应用, 正确的是:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "所有COPD患者均应常规单用ICS",
+            "correct": false,
+            "option_id": "1dc8b658-5ef8-48dd-9636-19e50f7f4445"
+          },
+          {
+            "type": "text",
+            "content": "ICS可单独使用于COPD",
+            "correct": false,
+            "option_id": "2bca3ccb-19a3-44b7-afee-96dc1e328a83"
+          },
+          {
+            "type": "text",
+            "content": "血EOS≥300/μl, 频繁急性加重或合并哮喘者ICS获益最大, 但ICS增加肺炎风险",
+            "correct": true,
+            "option_id": "f4c0e0f7-435a-42d5-a498-52e32a98ab1e"
+          },
+          {
+            "type": "text",
+            "content": "ICS可使所有患者的FEV1年下降率归零",
+            "correct": false,
+            "option_id": "b0b11c31-4e16-4c5f-8626-791640eb9b99"
+          },
+          {
+            "type": "text",
+            "content": "ICS禁忌与LABA/LAMA联合使用",
+            "correct": false,
+            "option_id": "8a5d86bf-5341-452f-8bcd-6a88284064e6"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ讨论课2课后测原始试题照片",
+            "locator": "第4题",
+            "note": "原卷照片未附答案; 判分参考答案由整理者补充, 待课程组确认"
+          },
+          {
+            "title": "GOLD 2026 COPD报告",
+            "url": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-REPORT-2026-v1.3-8Dec2025_WMV2.pdf"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "C最接近ICS用于预防适合患者急性加重的原则, 且ICS有肺炎风险。嗜酸粒细胞水平须结合加重史和当前治疗评估, 单靠EOS≥300不能保证对每名患者获益最大; 合并哮喘需同时遵循哮喘治疗原则。"
+          }
+        ]
+      },
+      {
+        "question_id": "605cb53c-4fb5-4ec1-bbb5-5d5276991981",
+        "question": [
+          {
+            "type": "text",
+            "content": "稳定期COPD“血EOS≥300个/μl, 有急性加重史, 慢性支气管炎表型”的患者, 可考虑的生物制剂是:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "奥马珠单抗",
+            "correct": false,
+            "option_id": "f8035635-4196-42b9-982b-0bc980632321"
+          },
+          {
+            "type": "text",
+            "content": "度普利尤单抗",
+            "correct": true,
+            "option_id": "66a17727-3aab-4450-b3e9-4c559d652441"
+          },
+          {
+            "type": "text",
+            "content": "美泊利珠单抗仅限哮喘",
+            "correct": false,
+            "option_id": "4e8fd12c-046c-40ba-a85a-b7e7c2c01346"
+          },
+          {
+            "type": "text",
+            "content": "英夫利西单抗",
+            "correct": false,
+            "option_id": "52e4225d-f42e-4997-b156-cc6125a267e0"
+          },
+          {
+            "type": "text",
+            "content": "贝伐珠单抗",
+            "correct": false,
+            "option_id": "a82b5269-8781-484b-b3bb-81f207e79513"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ讨论课2课后测原始试题照片",
+            "locator": "第5题",
+            "note": "原卷照片未附答案; 判分参考答案由整理者补充, 待课程组确认; B可能是命题意图; 生物制剂使用有具体适用条件, C中“仅限哮喘”的表述亦需结合现行适应证核对"
+          },
+          {
+            "title": "GOLD 2026 COPD报告",
+            "url": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-REPORT-2026-v1.3-8Dec2025_WMV2.pdf"
+          },
+          {
+            "title": "度普利尤单抗美国说明书",
+            "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761055s051lbl.pdf"
+          },
+          {
+            "title": "美泊利珠单抗美国说明书",
+            "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/125526s007lbl.pdf"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "度普利尤单抗可作为符合条件、控制不足的嗜酸粒细胞表型COPD患者的附加维持治疗, B为所给选项中最合适者。题干未交代既往治疗及控制程度, 不能仅凭所列指标决定用药; C中“美泊利珠单抗仅限哮喘”已不准确, 美国药品说明也包含特定COPD适应证, 各地批准范围可能不同。"
+          }
+        ]
+      },
+      {
+        "question_id": "9c2bc53e-cf93-4af8-ab9a-c7e44649fcf1",
+        "question": [
+          {
+            "type": "text",
+            "content": "AECOPD住院患者使用全身糖皮质激素的推荐疗程是:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "不超过3天",
+            "correct": false,
+            "option_id": "5cbf55d6-6cc4-4368-b6cb-745bff3cff3c"
+          },
+          {
+            "type": "text",
+            "content": "5~7天(一般≤5天)",
+            "correct": true,
+            "option_id": "1c5c78a9-8476-415e-a55b-bd22562b02a8"
+          },
+          {
+            "type": "text",
+            "content": "2周",
+            "correct": false,
+            "option_id": "ade0c6de-c82f-4f5c-8e1b-691d04deb7b4"
+          },
+          {
+            "type": "text",
+            "content": "4周后直接停药无复发风险",
+            "correct": false,
+            "option_id": "fa7bc477-2b3d-4577-b6a8-063c22140021"
+          },
+          {
+            "type": "text",
+            "content": "长期维持口服",
+            "correct": false,
+            "option_id": "01e1ff08-fdf3-4de8-8856-9b6b32ba2163"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ讨论课2课后测原始试题照片",
+            "locator": "第6题",
+            "note": "原卷照片未附答案; 判分参考答案和解析由整理者补充, 待课程组确认"
+          },
+          {
+            "title": "GOLD 2026急性加重管理",
+            "url": "https://goldcopd.org/wp-content/uploads/2025/11/GOLD-Pocket-Guide-2026-v1.1-20Nov2025_WMV.pdf"
+          },
+          {
+            "title": "REDUCE随机试验",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23695200/"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "五天是本组选项中与指南推荐最接近的疗程。B的“5~7天”和“一般≤5天”并列容易引起歧义, 不能据此认为常规需要7天; GOLD 2026推荐5天。"
+          }
+        ]
+      },
+      {
+        "question_id": "78b34c9f-3c14-4b2b-b6bf-095c5306ce97",
+        "question": [
+          {
+            "type": "text",
+            "content": "COPD急性加重期氧疗的首要目标是:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "使SpO2尽快达到100%",
+            "correct": false,
+            "option_id": "5d8df5b9-876f-4919-96f6-8df5c73ce35f"
+          },
+          {
+            "type": "text",
+            "content": "维持SpO2 88%~92%, 避免高浓度氧加重CO2潴留",
+            "correct": true,
+            "option_id": "bcd81dde-abf7-4ff7-892a-3becce5c2752"
+          },
+          {
+            "type": "text",
+            "content": "一律面罩高流量吸氧",
+            "correct": false,
+            "option_id": "a4bf487c-e263-45f0-9315-670769b71c04"
+          },
+          {
+            "type": "text",
+            "content": "只要呼吸频率降下来即可",
+            "correct": false,
+            "option_id": "0bf0d30e-502b-4fbb-895b-d44df1486125"
+          },
+          {
+            "type": "text",
+            "content": "先予双水平高浓度正压通气再评估",
+            "correct": false,
+            "option_id": "0ad23f93-c727-4c09-87c4-011f0185db8e"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ讨论课2课后测原始试题照片",
+            "locator": "第7题",
+            "note": "原卷照片未附答案; 判分参考答案由整理者补充, 待课程组确认"
+          },
+          {
+            "title": "英国胸科学会氧疗指南",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5531304/"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "对有高碳酸血症风险的COPD急性加重患者, 控制性吸氧通常以SpO₂ 88%~92%为初始目标, 并根据血气和个体状况调整, 不应追求所有患者达到100%。"
+          }
+        ]
+      },
+      {
+        "question_id": "cb697905-e179-46b8-bf21-4e97db43b8ef",
+        "question": [
+          {
+            "type": "text",
+            "content": "关于COPD预后与长期管理, 错误的是:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "GOLD分级和ABE分组, 加重史, 合并症均影响预后",
+            "correct": false,
+            "option_id": "5753899c-6a1a-48c3-8d79-a51f8453ee03"
+          },
+          {
+            "type": "text",
+            "content": "心血管疾病是COPD患者最重要的常见合并症之一, 影响生存",
+            "correct": false,
+            "option_id": "fae35d3b-a3c5-4c96-8f04-3875b9c50ef2"
+          },
+          {
+            "type": "text",
+            "content": "重度低氧者长期家庭氧疗(≥15小时/天)可降低死亡率",
+            "correct": false,
+            "option_id": "e1a72489-00f8-4161-87d3-d3d936a0a8c0"
+          },
+          {
+            "type": "text",
+            "content": "戒烟成功后肺功能可完全恢复正常",
+            "correct": true,
+            "option_id": "cba35a0b-4241-4a8c-a197-6d93bca4e4be"
+          },
+          {
+            "type": "text",
+            "content": "疫苗接种(流感, 肺炎球菌, COVID-19等)可减少下呼吸道感染与急性加重",
+            "correct": false,
+            "option_id": "f91f6c6b-275f-40ae-aac5-8863d9226683"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ讨论课2课后测原始试题照片",
+            "locator": "第8题",
+            "note": "原卷照片未附答案; 判分参考答案由整理者补充, 待课程组确认"
+          },
+          {
+            "title": "GOLD 2026 COPD报告",
+            "url": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-REPORT-2026-v1.3-8Dec2025_WMV2.pdf"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "戒烟可减缓继续吸烟造成的肺功能下降并改善预后, 但已形成的肺部结构损伤通常不能完全逆转; D不能作为普遍结论。"
+          }
+        ]
+      }
+    ]
+  },
+  "flashcards": {
+    "description": "",
+    "questions": []
+  }
+}

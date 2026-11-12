@@ -1,0 +1,484 @@
+{
+  "title": "讨论课2课前测",
+  "author": [],
+  "description": "原卷未附答案, 答案由整理者补充, 个别存疑题不自动判分",
+  "mcqs": {
+    "description": "单选题",
+    "questions": [
+      {
+        "question_id": "ffeff502-ba40-40cc-9513-d97afd18f583",
+        "question": [
+          {
+            "type": "text",
+            "content": "导致 COPD 的最主要危险因素是:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "空气污染",
+            "correct": false,
+            "option_id": "22606af9-963b-410f-bf0b-924f25107197"
+          },
+          {
+            "type": "text",
+            "content": "吸烟",
+            "correct": true,
+            "option_id": "b8d27ce1-fd80-4a9e-9693-7538f3f3ab09"
+          },
+          {
+            "type": "text",
+            "content": "职业粉尘",
+            "correct": false,
+            "option_id": "4af692e7-9b0a-4838-866f-e8e82e1c64ca"
+          },
+          {
+            "type": "text",
+            "content": "反复呼吸道感染",
+            "correct": false,
+            "option_id": "b69ba9e4-4e8f-486f-a6c5-180fdb39468b"
+          },
+          {
+            "type": "text",
+            "content": "α₁-抗胰蛋白酶缺乏",
+            "correct": false,
+            "option_id": "93126b78-c002-4800-965a-5625fcd85752"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ讨论课2课前测原始试题照片",
+            "locator": "第1题",
+            "note": "原卷照片未附答案; 判分参考答案由整理者补充, 待课程组确认"
+          },
+          {
+            "title": "GOLD 2026 COPD报告",
+            "url": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-REPORT-2026-v1.3-8Dec2025_WMV2.pdf"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "吸烟是COPD的重要危险因素, 在本题选项中为主要危险因素; 不吸烟者也可因空气污染、职业暴露或遗传因素等患病。"
+          }
+        ]
+      },
+      {
+        "question_id": "6f04c06b-3a01-42bb-b087-cfd9583887d8",
+        "question": [
+          {
+            "type": "text",
+            "content": "与小气道纤维化狭窄, 肺实质破坏共同导致 COPD 气流受限的核心机制不包括:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "气道慢性炎症(中性粒细胞, 巨噬细胞, CD8⁺ T 细胞)",
+            "correct": false,
+            "option_id": "cb6e3876-9cad-4b4c-9f4d-86758e7bc2f1"
+          },
+          {
+            "type": "text",
+            "content": "氧化应激",
+            "correct": false,
+            "option_id": "8b3eb4e6-adaa-4e78-9657-6dc6be41532c"
+          },
+          {
+            "type": "text",
+            "content": "蛋白酶/抗蛋白酶失衡",
+            "correct": false,
+            "option_id": "b8071012-da97-42ef-a5f1-d928d66dbb2e"
+          },
+          {
+            "type": "text",
+            "content": "黏液高分泌",
+            "correct": false,
+            "option_id": "8f713f32-043c-4891-b6c3-478d7b1d3a40"
+          },
+          {
+            "type": "text",
+            "content": "气道平滑肌细胞 IgE 介导的速发型超敏反应",
+            "correct": true,
+            "option_id": "c095f429-f896-4751-bca3-9db5a6ba7356"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ讨论课2课前测原始试题照片",
+            "locator": "第2题",
+            "note": "原卷照片未附答案; 判分参考答案由整理者补充, 待课程组确认"
+          },
+          {
+            "title": "GOLD 2026 COPD报告",
+            "url": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-REPORT-2026-v1.3-8Dec2025_WMV2.pdf"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "COPD气流受限与小气道病变、肺实质破坏及慢性炎症等有关; E所述IgE介导的速发型超敏反应并非其典型核心机制。"
+          }
+        ]
+      },
+      {
+        "question_id": "e7d6121f-b5e1-4b21-8561-91b12b30001c",
+        "question": [
+          {
+            "type": "text",
+            "content": "肺气肿的病理学定义是:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "终末细支气管远端气腔持久异常扩大伴肺泡壁破坏, 无明显纤维化",
+            "correct": true,
+            "option_id": "1f003c76-60aa-4185-978d-4588184d3733"
+          },
+          {
+            "type": "text",
+            "content": "气道黏膜下黏液腺增生, 浆液腺黏液化",
+            "correct": false,
+            "option_id": "6b928baa-5b30-4e05-84ce-82e3e9c6ef2d"
+          },
+          {
+            "type": "text",
+            "content": "肺泡间隔增厚伴淋巴细胞浸润",
+            "correct": false,
+            "option_id": "b4987e71-f217-472b-8eec-fe4c685cb33b"
+          },
+          {
+            "type": "text",
+            "content": "肺实质纤维瘢痕形成",
+            "correct": false,
+            "option_id": "70bec9c5-32ad-4d5f-a4d7-29a25060876a"
+          },
+          {
+            "type": "text",
+            "content": "支气管壁软骨破坏",
+            "correct": false,
+            "option_id": "8c4207d5-2870-424d-8640-89e54ddde078"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ讨论课2课前测原始试题照片",
+            "locator": "第3题",
+            "note": "原卷照片未附答案; 判分参考答案由整理者补充, 待课程组确认"
+          },
+          {
+            "title": "GOLD 2026 COPD报告",
+            "url": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-REPORT-2026-v1.3-8Dec2025_WMV2.pdf"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "肺气肿是终末细支气管远端气腔异常持久扩大, 伴肺泡壁破坏且无明显纤维化。"
+          }
+        ]
+      },
+      {
+        "question_id": "bc5b6819-f877-40a8-8135-d72ff3c5b328",
+        "question": [
+          {
+            "type": "text",
+            "content": "\"咳嗽, 咳痰每年≥3个月, 连续≥2年, 并排除其他心肺疾病\"是以下哪项的定义:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "哮喘",
+            "correct": false,
+            "option_id": "c6a343c1-bbf1-4354-90d2-960ab5d523ef"
+          },
+          {
+            "type": "text",
+            "content": "支气管扩张",
+            "correct": false,
+            "option_id": "741c148b-ea9b-420e-9cd5-bd7fa320c065"
+          },
+          {
+            "type": "text",
+            "content": "慢性支气管炎",
+            "correct": true,
+            "option_id": "fee8e949-2c7e-41a9-9606-8e6529df8c88"
+          },
+          {
+            "type": "text",
+            "content": "肺结核",
+            "correct": false,
+            "option_id": "22624ad2-b408-47e8-acea-c49fcab3966d"
+          },
+          {
+            "type": "text",
+            "content": "弥漫性泛细支气管炎",
+            "correct": false,
+            "option_id": "863b17a7-6e05-47f0-8b80-ee57bd97b973"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ讨论课2课前测原始试题照片",
+            "locator": "第4题",
+            "note": "原卷照片未附答案; 判分参考答案由整理者补充, 待课程组确认"
+          },
+          {
+            "title": "GOLD 2026 COPD报告",
+            "url": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-REPORT-2026-v1.3-8Dec2025_WMV2.pdf"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "连续两年、每年至少三个月的咳嗽咳痰, 排除其他原因后符合慢性支气管炎的传统临床定义。"
+          }
+        ]
+      },
+      {
+        "question_id": "c5323dac-b08d-4d28-af24-cf851861196f",
+        "question": [
+          {
+            "type": "text",
+            "content": "诊断 COPD 的必要条件和\"金标准\"检查是:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "胸部 X 线片",
+            "correct": false,
+            "option_id": "c634db60-c739-4eea-933f-fcdda5294845"
+          },
+          {
+            "type": "text",
+            "content": "血气分析",
+            "correct": false,
+            "option_id": "fc200b6c-8b0b-48d3-a819-569d420f2e0e"
+          },
+          {
+            "type": "text",
+            "content": "支气管舒张剂后肺量计测定(FEV₁/FVC<0.70)",
+            "correct": true,
+            "option_id": "7744b31a-5973-427b-a5c1-dd1c89346bd0"
+          },
+          {
+            "type": "text",
+            "content": "峰流速仪测定",
+            "correct": false,
+            "option_id": "fceacd37-1433-4f3c-ba91-7b465dfa8b76"
+          },
+          {
+            "type": "text",
+            "content": "胸部 CT",
+            "correct": false,
+            "option_id": "8319224c-0e1d-4528-8d97-92ce6e820cf4"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ讨论课2课前测原始试题照片",
+            "locator": "第5题",
+            "note": "原卷照片未附答案; 判分参考答案由整理者补充, 待课程组确认"
+          },
+          {
+            "title": "GOLD 2026 COPD报告",
+            "url": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-REPORT-2026-v1.3-8Dec2025_WMV2.pdf"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "本题采用GOLD固定比值标准: 支气管舒张剂后FEV₁/FVC<0.70是确认持续气流受限的肺量计指标, 还须结合症状、暴露和临床评估。"
+          }
+        ]
+      },
+      {
+        "question_id": "fcb6071c-2e83-41d4-8396-30aff11de140",
+        "question": [
+          {
+            "type": "text",
+            "content": "患者男, 55岁, 吸烟30年, 慢性咳嗽咳痰, 冬重夏轻. 以下病史中最不支持哮喘诊断的是:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "幼年起病, 发作性喘息",
+            "correct": false,
+            "option_id": "e5d03c88-bfb5-4d50-9900-656b8cba5bd9"
+          },
+          {
+            "type": "text",
+            "content": "症状夜间及凌晨加重, 可自行缓解",
+            "correct": false,
+            "option_id": "132a0733-20ca-46b2-82bd-4d916a7a0ed6"
+          },
+          {
+            "type": "text",
+            "content": "有枯草热和湿疹史",
+            "correct": false,
+            "option_id": "9dc10180-1c76-46ba-8d0f-543317a69159"
+          },
+          {
+            "type": "text",
+            "content": "50岁起病, 症状缓慢隐匿进行性加重",
+            "correct": true,
+            "option_id": "5680c838-a36b-4953-a09e-88e18712bc41"
+          },
+          {
+            "type": "text",
+            "content": "母亲有哮喘病史",
+            "correct": false,
+            "option_id": "9684391f-9a41-428c-8132-32098aa85abb"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ讨论课2课前测原始试题照片",
+            "locator": "第6题",
+            "note": "原卷照片未附答案; 判分参考答案由整理者补充, 待课程组确认"
+          },
+          {
+            "title": "GOLD 2026 COPD报告",
+            "url": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-REPORT-2026-v1.3-8Dec2025_WMV2.pdf"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "中年以后隐匿起病并逐渐加重更符合COPD的常见病程, 相比发作性、夜间波动和过敏史, 对哮喘的支持较弱; 单凭病史不能确诊。"
+          }
+        ]
+      },
+      {
+        "question_id": "97a8613a-5725-4574-a37b-27ac7e79386e",
+        "question": [
+          {
+            "type": "text",
+            "content": "关于 COPD 稳定期支气管扩张剂的核心原则, 错误的是:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "是缓解症状的基石, 按需或规律使用",
+            "correct": false,
+            "option_id": "af7954ff-4ab9-4516-b2db-2c539ba01a52"
+          },
+          {
+            "type": "text",
+            "content": "首选吸入途径",
+            "correct": false,
+            "option_id": "79347c94-e44c-4f50-bbf0-1cb9bd2f2838"
+          },
+          {
+            "type": "text",
+            "content": "长效制剂(LABA/LAMA)比短效制剂更方便, 更有效",
+            "correct": false,
+            "option_id": "a66e4fd8-36a7-4bdd-a723-5d0bdeb352c3"
+          },
+          {
+            "type": "text",
+            "content": "联合两种长效支气管扩张剂(LABA+LAMA)优于单药且不显著增加不良反应",
+            "correct": false,
+            "option_id": "84611dce-6af6-4ab5-a28c-83aa7fb6515c"
+          },
+          {
+            "type": "text",
+            "content": "应常规首选口服支气管扩张剂如茶碱",
+            "correct": true,
+            "option_id": "b9b0c98b-02b7-4aca-bcbe-b04bab4d1725"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ讨论课2课前测原始试题照片",
+            "locator": "第7题",
+            "note": "原卷照片未附答案; 判分参考答案由整理者补充, 待课程组确认"
+          },
+          {
+            "title": "GOLD 2026 COPD报告",
+            "url": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-REPORT-2026-v1.3-8Dec2025_WMV2.pdf"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "吸入支气管扩张剂是稳定期缓解症状的重要治疗, 不应常规将口服茶碱作为首选。联合或单药应根据症状、加重史及个体反应选择。"
+          }
+        ]
+      },
+      {
+        "question_id": "ae61f6bd-d1aa-452e-a421-f1b5a3373e53",
+        "question": [
+          {
+            "type": "text",
+            "content": "目前唯一被证实能延缓 COPD 患者 FEV₁ 年下降速率的干预措施是:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "吸入糖皮质激素",
+            "correct": false,
+            "option_id": "e2f696fd-99af-469e-813a-cd5b150f0089"
+          },
+          {
+            "type": "text",
+            "content": "戒烟",
+            "correct": false,
+            "option_id": "c1a3c559-c801-4cdb-882a-c0e672695484"
+          },
+          {
+            "type": "text",
+            "content": "长期家庭氧疗",
+            "correct": false,
+            "option_id": "6581689b-ad4c-43c8-8ce6-2549fe58efff"
+          },
+          {
+            "type": "text",
+            "content": "长期口服 N-乙酰半胱氨酸",
+            "correct": false,
+            "option_id": "0be3ac72-892a-4597-bf13-5576e9c8a5c9"
+          },
+          {
+            "type": "text",
+            "content": "肺减容手术",
+            "correct": false,
+            "option_id": "870ad8e5-8ed1-4d66-812f-c995979215f8"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ讨论课2课前测原始试题照片",
+            "locator": "第8题",
+            "note": "原卷照片未附答案; 原题表述存在疑点, 不自动判分, 具体见解析"
+          },
+          {
+            "title": "TORCH试验事后分析",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18511702/"
+          },
+          {
+            "title": "ISOLDE随机试验",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10807619/"
+          }
+        ],
+        "answer_status": "unavailable",
+        "selection_mode": "single",
+        "explanation": [
+          {
+            "type": "text",
+            "content": "戒烟是减缓吸烟者COPD肺功能下降的重要措施, B可能是命题意图。但“唯一”过于绝对: TORCH试验的事后分析及其他研究观察到吸入药物对FEV1下降速率的影响, 研究结论并不完全一致。本题保留不判分, 待课程组确认。"
+          }
+        ]
+      }
+    ]
+  },
+  "flashcards": {
+    "description": "",
+    "questions": []
+  }
+}

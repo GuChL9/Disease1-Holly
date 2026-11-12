@@ -1,0 +1,492 @@
+{
+  "title": "讨论课3课后测",
+  "author": [],
+  "description": "原卷未附答案, 答案由整理者补充, 个别存疑题不自动判分",
+  "mcqs": {
+    "description": "单选题",
+    "questions": [
+      {
+        "question_id": "860dc6fe-f7f8-4e3f-be95-ad2543b1ab7a",
+        "question": [
+          {
+            "type": "text",
+            "content": "L女士58岁再入院时: 血压194/82 mmHg, 体重较前增加5 kg, 颈静脉压12 cmH₂O, 双肺底湿啰音, eGFR约35 ml/min/1.73m². 此时最优先的处置是:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "立即加用ACEI以阻断RAAS",
+            "correct": false,
+            "option_id": "e6138922-1d63-4e40-ba55-a41c04f38173"
+          },
+          {
+            "type": "text",
+            "content": "加用噻嗪类利尿剂强化排钠",
+            "correct": false,
+            "option_id": "a19ba936-690e-432d-94ce-09869ce6f500"
+          },
+          {
+            "type": "text",
+            "content": "用袢利尿剂(必要时超滤)减轻容量负荷, 同时限制钠水摄入",
+            "correct": true,
+            "option_id": "5ccee7c4-eec0-43c6-aef7-e76a9ffb966b"
+          },
+          {
+            "type": "text",
+            "content": "将钙通道阻滞剂剂量加倍",
+            "correct": false,
+            "option_id": "2025ea9b-f081-4ea5-84ab-d3e218ee4a40"
+          },
+          {
+            "type": "text",
+            "content": "立即开始血液透析",
+            "correct": false,
+            "option_id": "d0a7734b-3054-4d21-8b7f-4a6e8887326b"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ讨论课3课后测原始试题照片",
+            "locator": "第1题",
+            "note": "原卷照片未附答案; 判分参考答案由整理者补充, 待课程组确认"
+          },
+          {
+            "title": "KDIGO 2024 CKD指南",
+            "url": "https://kdigo.org/wp-content/uploads/2024/03/KDIGO-2024-CKD-Guideline.pdf"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "体重增加、颈静脉压升高和肺底湿啰音提示容量负荷增加; 所给方案中先处理容量过多最合适, 必要时进一步评估超滤或透析。"
+          }
+        ]
+      },
+      {
+        "question_id": "916a2e72-f78b-49e9-bf59-7009572987be",
+        "question": [
+          {
+            "type": "text",
+            "content": "该患者已被DSA证实为双侧肾动脉狭窄. 在血肌酐3.1 mg/dl时, 社区医生给予“非常低剂量ACEI”. 下列判断正确的是:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "低剂量ACEI对双侧肾动脉狭窄是安全的, 可以继续使用",
+            "correct": false,
+            "option_id": "b8736599-4542-4dc1-a4e1-2cf30f6958f2"
+          },
+          {
+            "type": "text",
+            "content": "双侧肾动脉狭窄属相对禁忌, ACEI的受体阻断效应不因剂量低而消失, 应停用并改用CCB, β受体阻滞剂与袢利尿剂",
+            "correct": false,
+            "option_id": "64158a83-b2c6-4d6d-91e3-ead106636c1b"
+          },
+          {
+            "type": "text",
+            "content": "应同时加用保钾利尿剂以预防低钾血症",
+            "correct": false,
+            "option_id": "04f7498c-6b87-4b2a-8d1a-bd0435e09611"
+          },
+          {
+            "type": "text",
+            "content": "应同时加用NSAIDs以增强降压效果",
+            "correct": false,
+            "option_id": "2f714029-e009-4abd-8516-de36219f0bcb"
+          },
+          {
+            "type": "text",
+            "content": "只要每周复查一次血钾, 即可继续使用",
+            "correct": false,
+            "option_id": "6857b8ed-f58f-418b-9187-8150e1e789f5"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ讨论课3课后测原始试题照片",
+            "locator": "第2题",
+            "note": "原卷照片未附答案; 原题表述存在疑点, 不自动判分, 具体见解析"
+          },
+          {
+            "title": "ACEI作用机制",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37668854/"
+          },
+          {
+            "title": "AHA肾血管性高血压综述",
+            "url": "https://www.ahajournals.org/doi/pdf/10.1161/circulationaha.104.492348?download=true"
+          }
+        ],
+        "answer_status": "unavailable",
+        "selection_mode": "single",
+        "explanation": [
+          {
+            "type": "text",
+            "content": "B可能是命题意图, 但ACEI抑制血管紧张素转换酶, 并非直接阻断血管紧张素受体, B的机制表述有实质错误。双侧肾动脉狭窄患者使用相关药物需结合肾功能和血钾严密评估, 不能仅凭低剂量或只查血钾判定安全。本题不判分。"
+          }
+        ]
+      },
+      {
+        "question_id": "6d2617ab-001a-4ee0-897b-3ec48beed21e",
+        "question": [
+          {
+            "type": "text",
+            "content": "本次入院: 血肌酐7.2 mg/dl, eGFR约6 ml/min/1.73m², 尿蛋白2+, HCO₃⁻ 18 mmol/L, 肾脏彩超示双肾缩小, 肾动脉多普勒未见明确狭窄, 阻力指数正常. 最恰当的总体处理是:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "再次行肾动脉造影并置入支架, 争取恢复肾功能",
+            "correct": false,
+            "option_id": "91128c93-6834-4c8a-a8b4-32548c7aaaec"
+          },
+          {
+            "type": "text",
+            "content": "使用大剂量ACEI减少蛋白尿, 延缓进展",
+            "correct": false,
+            "option_id": "683d1be5-1d06-43ba-9873-547c5f470605"
+          },
+          {
+            "type": "text",
+            "content": "启动肾脏替代治疗的评估与准备, 同时纠正酸中毒, 容量负荷与CKD-MBD, 不再行血运重建",
+            "correct": true,
+            "option_id": "f49bfdfe-735e-49d9-b0b9-3c6856ced796"
+          },
+          {
+            "type": "text",
+            "content": "仅口服碳酸氢钠, 继续门诊观察",
+            "correct": false,
+            "option_id": "d734d30a-6f07-4bd3-ab3a-6347d5a24eb7"
+          },
+          {
+            "type": "text",
+            "content": "立即行肾移植手术",
+            "correct": false,
+            "option_id": "cf7f5ad7-930b-4ca1-aa7b-c07161e2d6b7"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ讨论课3课后测原始试题照片",
+            "locator": "第3题",
+            "note": "原卷照片未附答案; 判分参考答案和解析由整理者补充, 待课程组确认"
+          },
+          {
+            "title": "KDIGO 2024 CKD指南",
+            "url": "https://kdigo.org/wp-content/uploads/2024/03/KDIGO-2024-CKD-Guideline.pdf"
+          },
+          {
+            "title": "AHA肾血管重建科学声明",
+            "url": "https://www.ahajournals.org/doi/pdf/10.1161/HYP.0000000000000217"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "本病例肾功能已严重下降, 存在酸中毒, 双肾缩小, 多普勒未见明确狭窄。在给出的方案中, C的肾脏替代治疗评估准备及并发症处理最合适; 不宜直接置支架、仅门诊观察或立即移植。血运重建是否适用仍需结合具体证据个体化评估, 不应把该选项概括为所有类似患者永久禁用血运重建。"
+          }
+        ]
+      },
+      {
+        "question_id": "3e81d673-7dc9-4f3f-8d12-6431267e5de9",
+        "question": [
+          {
+            "type": "text",
+            "content": "关于该患者的透析通路方案(左前臂自体动静脉内瘘+左锁骨下静脉临时透析导管), 下列评价正确的是:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "方案合理, 左锁骨下导管可长期保留使用",
+            "correct": false,
+            "option_id": "f93cece5-616c-496b-9e3c-bea39d884817"
+          },
+          {
+            "type": "text",
+            "content": "左锁骨下静脉置管易致中心静脉狭窄, 影响同侧内瘘, 宜选右颈内静脉; 内瘘需6-8周成熟后方可穿刺使用",
+            "correct": true,
+            "option_id": "0cbcd687-c0b9-4af4-b8ce-f7d7859ba096"
+          },
+          {
+            "type": "text",
+            "content": "应首选人工血管移植(AVG)而非自体动静脉内瘘",
+            "correct": false,
+            "option_id": "4f938e0d-8b5d-4193-b43a-4e941e721775"
+          },
+          {
+            "type": "text",
+            "content": "应首选股静脉长期留置导管作为永久通路",
+            "correct": false,
+            "option_id": "dc125b60-4778-4e4e-868e-abd94c81161b"
+          },
+          {
+            "type": "text",
+            "content": "内瘘建立后即可立即穿刺使用, 无需等待成熟",
+            "correct": false,
+            "option_id": "bf38d4aa-a16e-4d37-95b0-a94fe63e7ac3"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ讨论课3课后测原始试题照片",
+            "locator": "第4题",
+            "note": "原卷照片未附答案; 判分参考答案和解析由整理者补充, 待课程组确认"
+          },
+          {
+            "title": "KDOQI血管通路指南",
+            "url": "https://www.kidney.org/sites/default/files/2026-07/2019-kdoqi-guideline-vascular-access.pdf"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "在所给方案中B最合适: 锁骨下静脉置管可能造成中心静脉狭窄并影响同侧内瘘, 右颈内静脉通常是更合适的导管位置。6-8周是常见的成熟观察范围, 并非所有内瘘必须等待的固定时间; 应根据实际成熟情况评估能否穿刺。"
+          }
+        ]
+      },
+      {
+        "question_id": "68935e91-5afa-4d9a-b57b-39a80c814ea6",
+        "question": [
+          {
+            "type": "text",
+            "content": "透析1个半月内体重下降17 kg. 期间两次在透析后期出现血压陡降, 其中一次伴短暂意识丧失; 两次均发生于透析间期延长, 超滤量>2.7 L时. 最可能的机制与处理是:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "透析失衡综合征; 应加快血流量并缩短透析时间",
+            "correct": false,
+            "option_id": "c8381948-4196-4d15-9d48-2f05bfc3b586"
+          },
+          {
+            "type": "text",
+            "content": "超滤率超过血浆再充盈速率致有效循环血量不足(透析中低血压); 应停止超滤, 平卧抬高下肢, 快速补液, 并延长透析时间/降低超滤率, 控制间期增重",
+            "correct": true,
+            "option_id": "aaad5a97-8b9e-4a38-9d9c-fbe328b84bb2"
+          },
+          {
+            "type": "text",
+            "content": "心包填塞; 应立即行心包穿刺",
+            "correct": false,
+            "option_id": "c51559b8-7a6e-43f8-a05e-db09e2fba983"
+          },
+          {
+            "type": "text",
+            "content": "透析器过敏反应; 应立即停用并给予肾上腺素",
+            "correct": false,
+            "option_id": "8150774a-c0cb-4cb5-8757-957d4ca584e1"
+          },
+          {
+            "type": "text",
+            "content": "低血糖反应; 应立即口服葡萄糖",
+            "correct": false,
+            "option_id": "538a47a2-9967-469d-993e-972a6c2c0201"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ讨论课3课后测原始试题照片",
+            "locator": "第5题",
+            "note": "原卷照片未附答案; 判分参考答案由整理者补充, 待课程组确认"
+          },
+          {
+            "title": "透析中低血压前瞻性观察",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32447597/"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "大量超滤、透析间期延长并在透析后期发生低血压, 支持超滤相关有效循环血量不足。需暂停或降低超滤并评估补液, 同时调整后续超滤处方及间期体重增长。"
+          }
+        ]
+      },
+      {
+        "question_id": "22150af7-70f0-485f-ae54-8bc26a105982",
+        "question": [
+          {
+            "type": "text",
+            "content": "患者因严重便秘出现透析前血钾6.6 mmol/L. 最恰当的处置是:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "首选口服阳离子交换树脂, 观察4小时后复查",
+            "correct": false,
+            "option_id": "b75e9df5-c9cb-4b4e-b62b-bd9a4dd3ad5d"
+          },
+          {
+            "type": "text",
+            "content": "立即静脉推注氯化钾以稳定心肌",
+            "correct": false,
+            "option_id": "f29389fa-4528-44e8-9377-603a440b5431"
+          },
+          {
+            "type": "text",
+            "content": "葡萄糖酸钙稳定心肌 → 胰岛素加葡萄糖, 沙丁胺醇雾化促钾向细胞内转移 → 透析清除; 同时通便, 停用含钾盐替代品与保钾药物",
+            "correct": true,
+            "option_id": "2fc88b2c-987d-4325-afb4-9a3d441a9dc5"
+          },
+          {
+            "type": "text",
+            "content": "仅嘱其少吃香蕉, 橙子即可",
+            "correct": false,
+            "option_id": "072d1846-bc90-460d-bb13-1652c6e98011"
+          },
+          {
+            "type": "text",
+            "content": "立即静脉滴注碳酸氢钠作为唯一措施",
+            "correct": false,
+            "option_id": "7f34e8dc-24e2-4079-ac9b-20966f631f8e"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ讨论课3课后测原始试题照片",
+            "locator": "第6题",
+            "note": "原卷照片未附答案; 判分参考答案由整理者补充, 待课程组确认"
+          },
+          {
+            "title": "英国肾脏协会高钾血症指南",
+            "url": "https://www.ukkidney.org/wp-content/uploads/drupal-archive/documents/FINAL%20VERSION%20-%20UKKA%20CLINICAL%20PRACTICE%20GUIDELINE%20-%20MANAGEMENT%20OF%20HYPERKALAEMIA%20IN%20ADULTS%20-%20UPDATED%20JULY%202026_0.pdf"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "K⁺ 6.6 mmol/L属于严重高钾, 在选项中C包含稳定心肌、促进钾转入细胞和透析清除的综合措施。应立即心电监护并尽快透析; 静脉钙尤其用于存在高钾相关心电图改变者, 胰岛素治疗后还需监测血糖。题干未提供心电图和透析可用时间, 具体顺序应由临床情境决定。"
+          }
+        ]
+      },
+      {
+        "question_id": "45e192d1-5c24-417a-9db5-8878fcaa14f8",
+        "question": [
+          {
+            "type": "text",
+            "content": "透析1年后: 血磷进行性升高, 虽补钙但血钙仍偏低, 尚未查iPTH与25(OH)D. 最恰当的处理是:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "加大含钙磷结合剂剂量, 直至血磷达标",
+            "correct": false,
+            "option_id": "28008af2-6edd-4316-9724-dcac23516de4"
+          },
+          {
+            "type": "text",
+            "content": "限磷饮食+非含钙磷结合剂, 查iPTH与25(OH)D, 必要时加活性维生素D或拟钙剂, 并评估血管钙化",
+            "correct": true,
+            "option_id": "5b3e4fc7-e3f1-4dc7-b8fb-bc487f51cb13"
+          },
+          {
+            "type": "text",
+            "content": "停用所有磷结合剂, 改为单纯限磷",
+            "correct": false,
+            "option_id": "c8a08517-10bd-4f1e-b348-14d9aac23478"
+          },
+          {
+            "type": "text",
+            "content": "立即行甲状旁腺全切除术",
+            "correct": false,
+            "option_id": "2a04bd99-4aee-488d-bd4e-b10872ad19a4"
+          },
+          {
+            "type": "text",
+            "content": "提高透析液钙浓度即可纠正",
+            "correct": false,
+            "option_id": "579f657b-d5bc-40a6-b0f9-01d053ad8751"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ讨论课3课后测原始试题照片",
+            "locator": "第7题",
+            "note": "原卷照片未附答案; 判分参考答案和解析由整理者补充, 待课程组确认"
+          },
+          {
+            "title": "KDIGO 2017 CKD-MBD指南摘要",
+            "url": "https://kdigo.org/wp-content/uploads/2017/02/Executive-Summary-_2017-KDIGO-CKD-MBD-GL-Update_Corrected.pdf"
+          },
+          {
+            "title": "西那卡塞药品说明",
+            "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0692252e-4cc6-4f16-8a54-aeacd59c3143"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "B在本题中最符合综合评估和处理方向: 持续高磷应结合饮食、磷结合剂、血钙和PTH等评估。拟钙剂可能进一步降低血钙, 不能仅凭本题信息立即加用; 原选项的“必要时”必须以检查结果及用药条件为前提。活性维生素D也应结合血磷等指标判断。"
+          }
+        ]
+      },
+      {
+        "question_id": "34b4f186-675a-43e4-954c-284d7f43d52a",
+        "question": [
+          {
+            "type": "text",
+            "content": "透析1年后, 患者每次来透析室都反复问: “难道我这一辈子都得靠这台机器了吗?” 此时最恰当的应对是:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "明确告知必须终身血液透析, 劝其接受现实",
+            "correct": false,
+            "option_id": "8769ba1d-6942-4e12-a124-ef0312641f02"
+          },
+          {
+            "type": "text",
+            "content": "说明肾移植是可能摆脱透析的路径并推进等待名单流程, 介绍腹膜透析, 居家血透与保守治疗等选项, 筛查抑郁焦虑, 与其共同决策",
+            "correct": true,
+            "option_id": "ecca8af2-12ce-469b-bee8-5393c4093dfd"
+          },
+          {
+            "type": "text",
+            "content": "转诊精神科后不再讨论该问题",
+            "correct": false,
+            "option_id": "d21c6d57-f84f-4998-81f1-d952b546ba68"
+          },
+          {
+            "type": "text",
+            "content": "加用抗焦虑药物即可, 不必回应",
+            "correct": false,
+            "option_id": "f525a444-f81c-4be1-a55c-862b9b1138aa"
+          },
+          {
+            "type": "text",
+            "content": "避免谈论预后, 以免加重焦虑",
+            "correct": false,
+            "option_id": "acb29f9a-275d-4231-981b-f18fac02eea6"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ讨论课3课后测原始试题照片",
+            "locator": "第8题",
+            "note": "原卷照片未附答案; 判分参考答案由整理者补充, 待课程组确认"
+          },
+          {
+            "title": "KDIGO 2024 CKD指南",
+            "url": "https://kdigo.org/wp-content/uploads/2024/03/KDIGO-2024-CKD-Guideline.pdf"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "肾移植可能让合适的患者摆脱透析, 也应介绍其他可行治疗及保守治疗, 关注心理状态并共同决策; 是否进入移植等待名单取决于评估、患者意愿及当地流程。"
+          }
+        ]
+      }
+    ]
+  },
+  "flashcards": {
+    "description": "",
+    "questions": []
+  }
+}

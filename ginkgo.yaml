@@ -1,0 +1,13 @@
+website:
+  title: 重要疾病Ⅰ讨论课题库
+  description: 原卷未附答案, 判分答案为整理者补充, 个别存疑题不自动判分
+bank_id: 156abb32-94a1-4b00-b28b-b29d01372829
+identity_mode: stable
+nav:
+- 2026-2027秋讨论课:
+  - 讨论课1课前测: docs/01-pre.json
+  - 讨论课1课后测: docs/01-post.json
+  - 讨论课2课前测: docs/02-pre.json
+  - 讨论课2课后测: docs/02-post.json
+  - 讨论课3课前测: docs/03-pre.json
+  - 讨论课3课后测: docs/03-post.json
