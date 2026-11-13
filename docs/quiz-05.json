@@ -1,0 +1,1038 @@
+{
+  "title": "平时测试5",
+  "author": [],
+  "description": "答案来自平台公布的正确答案",
+  "mcqs": {
+    "description": "单选题",
+    "questions": [
+      {
+        "question_id": "3cd6fbdb-76eb-4f1c-96c3-484436b3d27c",
+        "question": [
+          {
+            "type": "text",
+            "content": "下列哪一项不是肾脏疾病的临床表现"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "高血压",
+            "correct": false,
+            "option_id": "2a96c048-b6eb-4d87-bfb6-3cef73277750"
+          },
+          {
+            "type": "text",
+            "content": "蛋白尿",
+            "correct": false,
+            "option_id": "9b90482c-c7ed-4960-a342-d955533793f8"
+          },
+          {
+            "type": "text",
+            "content": "水肿",
+            "correct": false,
+            "option_id": "2f800169-bc2f-4c73-b2f2-2321ed4b7843"
+          },
+          {
+            "type": "text",
+            "content": "血尿",
+            "correct": false,
+            "option_id": "c9913206-342b-4778-beb5-1d988b25d0a7"
+          },
+          {
+            "type": "text",
+            "content": "头疼",
+            "correct": true,
+            "option_id": "7f1477ef-3b92-4338-8636-d7ac46acde6c"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第5次平时测试原卷PDF",
+            "locator": "第1题",
+            "note": "平台逐题公布的正确答案"
+          },
+          {
+            "title": "美国国家肾脏基金会: 高血压与肾脏",
+            "url": "https://www.kidney.org/kidney-topics/high-blood-pressure-and-your-kidneys?page=1"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "学在浙大给出答案为E。头痛不是肾脏疾病的特异性主要表现, 但肾病相关高血压等情况也可能伴头痛, 题干的“不是”表述过于绝对。"
+          }
+        ]
+      },
+      {
+        "question_id": "890be71d-e5fe-4bca-b4ac-d66b3f3cc494",
+        "question": [
+          {
+            "type": "text",
+            "content": "临床上鉴别肾小球血尿和非肾小球血尿常用的方法"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "肉眼观察尿液的颜色",
+            "correct": false,
+            "option_id": "7c95f1e5-445f-466f-b679-ccf39d781df2"
+          },
+          {
+            "type": "text",
+            "content": "新鲜尿离心沉渣相差显微镜检查",
+            "correct": true,
+            "option_id": "6490003a-05d9-4342-a978-ba93bec855fd"
+          },
+          {
+            "type": "text",
+            "content": "新鲜尿离心沉渣油镜检查",
+            "correct": false,
+            "option_id": "75dd4312-b803-4ab9-acec-e45055d489f8"
+          },
+          {
+            "type": "text",
+            "content": "新鲜尿离心沉渣显微镜检查",
+            "correct": false,
+            "option_id": "0b261bcb-0002-4b23-9d1c-1521a0041070"
+          },
+          {
+            "type": "text",
+            "content": "新鲜尿沉渣离心高倍镜检查",
+            "correct": false,
+            "option_id": "72ba53dd-e27e-4d76-9ac7-b7399138cdfa"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第5次平时测试原卷PDF",
+            "locator": "第2题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "1511a309-0453-41b6-acd9-6708e0925a39",
+        "question": [
+          {
+            "type": "text",
+            "content": "以下哪组为诊断肾病综合征所必需的"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "水肿+高血压",
+            "correct": false,
+            "option_id": "9c9cac75-1fa3-4663-ba88-b911be0ce873"
+          },
+          {
+            "type": "text",
+            "content": "低蛋白血症+贫血",
+            "correct": false,
+            "option_id": "c2a28557-3266-4317-8c03-e9e6fc530485"
+          },
+          {
+            "type": "text",
+            "content": "水肿+高脂血症",
+            "correct": false,
+            "option_id": "0ecb4a43-1387-4a03-81f4-3f5cb9f3f529"
+          },
+          {
+            "type": "text",
+            "content": "大量蛋白尿+血尿",
+            "correct": false,
+            "option_id": "9383e73c-f563-4624-8a0d-3f2109da4c06"
+          },
+          {
+            "type": "text",
+            "content": "大量蛋白尿+低蛋白血症",
+            "correct": true,
+            "option_id": "951b2e50-9978-4730-9189-51fb2842cddf"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第5次平时测试原卷PDF",
+            "locator": "第3题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "a34a18b3-9d6c-4571-ac10-abd48cf09a4e",
+        "question": [
+          {
+            "type": "text",
+            "content": "肾病综合征出现大量蛋白尿其主要原因是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "蛋白质摄入不足",
+            "correct": false,
+            "option_id": "2b20b7b3-c9c4-4e50-9166-ee9d506b0a0d"
+          },
+          {
+            "type": "text",
+            "content": "肾小球滤过膜的屏障作用受损",
+            "correct": true,
+            "option_id": "79305475-d958-4f54-b809-485703dd200d"
+          },
+          {
+            "type": "text",
+            "content": "肾小管重吸收蛋白质障碍",
+            "correct": false,
+            "option_id": "a89c970f-bdd8-4aa8-bad6-f1e93208b8be"
+          },
+          {
+            "type": "text",
+            "content": "清白蛋白分解代谢增强",
+            "correct": false,
+            "option_id": "1f753e3c-8ada-43a5-bb15-5688f2324acc"
+          },
+          {
+            "type": "text",
+            "content": "肝脏合成蛋白质不足",
+            "correct": false,
+            "option_id": "daa6b6b2-0c6b-4e9a-baaa-298582753080"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第5次平时测试原卷PDF",
+            "locator": "第4题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "52e33728-d6c2-4ae1-a2a3-1063b4d1868f",
+        "question": [
+          {
+            "type": "text",
+            "content": "下面哪项不是肾病综合症常见的并发症"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "急性肾损伤",
+            "correct": false,
+            "option_id": "f8332515-f00c-47b7-a7cb-10c53943bf40"
+          },
+          {
+            "type": "text",
+            "content": "蛋白尿和血尿",
+            "correct": true,
+            "option_id": "e55ed1b7-c832-4b5d-aa4d-14bdb16970ff"
+          },
+          {
+            "type": "text",
+            "content": "血栓",
+            "correct": false,
+            "option_id": "88cd8848-eef3-4e8e-8f49-a3d5955465c0"
+          },
+          {
+            "type": "text",
+            "content": "感染",
+            "correct": false,
+            "option_id": "e5da8ae9-1aac-493a-9c4d-ab241ece6a9b"
+          },
+          {
+            "type": "text",
+            "content": "脂类以及蛋白代谢异常",
+            "correct": false,
+            "option_id": "5e3c2bcb-8755-4f25-97d6-a915902e6d97"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第5次平时测试原卷PDF",
+            "locator": "第5题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "56c01de3-7125-4798-8874-4620b264e32f",
+        "question": [
+          {
+            "type": "text",
+            "content": "肾小球毛细血管壁由（   ）构成"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "内皮细胞、基底膜和浆膜层",
+            "correct": false,
+            "option_id": "c28b9d9d-b8fe-4389-9ffd-e5a7e0706dc2"
+          },
+          {
+            "type": "text",
+            "content": "平滑肌细胞、基底膜和足细胞",
+            "correct": false,
+            "option_id": "8fb6ce10-bb4e-438b-8cca-f3aa03941ff9"
+          },
+          {
+            "type": "text",
+            "content": "内皮细胞、基底膜和足细胞",
+            "correct": true,
+            "option_id": "422099dc-26e0-4ba6-91bd-cd6595941a8a"
+          },
+          {
+            "type": "text",
+            "content": "内皮细胞、疏松结缔组织和足细胞",
+            "correct": false,
+            "option_id": "744eda6e-72fa-4b9b-83fd-5c47bc5ac366"
+          },
+          {
+            "type": "text",
+            "content": "内皮细胞、平滑肌细胞和基底膜",
+            "correct": false,
+            "option_id": "4f86cce4-35e8-4150-a750-383cea3c26a1"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第5次平时测试原卷PDF",
+            "locator": "第6题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "17eaebbd-d187-4ec3-b92e-f3325abe3092",
+        "question": [
+          {
+            "type": "text",
+            "content": "肾小球源性血尿为"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "均一型",
+            "correct": false,
+            "option_id": "31200aba-3595-48d8-9e55-ac43bb58c3d3"
+          },
+          {
+            "type": "text",
+            "content": "混合型",
+            "correct": false,
+            "option_id": "e6dfa553-190b-44ba-bfb4-d2aab85cf970"
+          },
+          {
+            "type": "text",
+            "content": "其余选项都对",
+            "correct": false,
+            "option_id": "5ba9046c-988e-4d4a-b882-79fb7b400fb1"
+          },
+          {
+            "type": "text",
+            "content": "影型",
+            "correct": false,
+            "option_id": "85981060-5be2-44f9-b154-6889a26542a3"
+          },
+          {
+            "type": "text",
+            "content": "多形型",
+            "correct": true,
+            "option_id": "6b6ee37e-1a0b-4866-b707-c300c98e4a4d"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第5次平时测试原卷PDF",
+            "locator": "第7题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "a7de36cc-b727-49d0-8190-6c68bdb3732f",
+        "question": [
+          {
+            "type": "text",
+            "content": "关于急性肾小球肾炎水肿的主要原因，描述正确的是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "大量血浆蛋白吸收减少",
+            "correct": false,
+            "option_id": "db147ae4-df5b-41b6-b519-45f100dccdc3"
+          },
+          {
+            "type": "text",
+            "content": "继发性醛固酮分泌增多",
+            "correct": false,
+            "option_id": "360ff0ef-3028-41d7-92e1-1188d972aeae"
+          },
+          {
+            "type": "text",
+            "content": "继发性心功能不全",
+            "correct": false,
+            "option_id": "c38fc201-5557-418f-bd52-20b02aa9a357"
+          },
+          {
+            "type": "text",
+            "content": "肾小管重吸收增加",
+            "correct": false,
+            "option_id": "678bd77f-8890-41f9-9238-ca13ab329552"
+          },
+          {
+            "type": "text",
+            "content": "肾小球滤过率降低",
+            "correct": true,
+            "option_id": "7dd6c863-6098-48a5-8a18-6fb85c2b299d"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第5次平时测试原卷PDF",
+            "locator": "第8题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "5c102492-b4ce-4e01-aeae-d36e48b40976",
+        "question": [
+          {
+            "type": "text",
+            "content": "我国慢性肾脏病患病率大约为多少？"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "20%",
+            "correct": false,
+            "option_id": "8574cc88-e313-4848-bf15-7d0f3b5ada57"
+          },
+          {
+            "type": "text",
+            "content": "15%",
+            "correct": false,
+            "option_id": "a83c7bd8-6dec-4276-8868-0298c8bdef9a"
+          },
+          {
+            "type": "text",
+            "content": "10%",
+            "correct": true,
+            "option_id": "01b74a0c-e459-45e9-9b67-91d87679636c"
+          },
+          {
+            "type": "text",
+            "content": "5%",
+            "correct": false,
+            "option_id": "87e533cb-fbcd-4dc5-9ccc-30ccb0548165"
+          },
+          {
+            "type": "text",
+            "content": "1%",
+            "correct": false,
+            "option_id": "700c8c3d-4e65-4baf-a55d-0e5c4b15c17b"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第5次平时测试原卷PDF",
+            "locator": "第9题",
+            "note": "平台逐题公布的正确答案"
+          },
+          {
+            "title": "中国慢性肾脏病患病率调查 (2018-2019)",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36804760/"
+          },
+          {
+            "title": "课程课件: 慢性肾衰竭与肾脏替代治疗",
+            "locator": "第2-3页"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "学在浙大给出答案为C。课程课件引用2007-2010年中国成人调查结果约10.8%; 2018-2019年另一项全国调查估计为8.2%, 患病率与调查时间、方法及人群有关。"
+          }
+        ]
+      },
+      {
+        "question_id": "d549f12a-d4aa-4fb8-8b56-fa28d0e0c2e8",
+        "question": [
+          {
+            "type": "text",
+            "content": "eGFR低于多少被定义为慢性肾脏病5期"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "15毫升每分钟每1.73平方米(m²)",
+            "correct": true,
+            "option_id": "6aba1cce-343a-4498-a100-1903b8df7506"
+          },
+          {
+            "type": "text",
+            "content": "10毫升每分钟每1.73平方米(m²)",
+            "correct": false,
+            "option_id": "8c910346-4bdc-4958-b143-71e90d17d48d"
+          },
+          {
+            "type": "text",
+            "content": "20毫升每分钟每1.73平方米(m²)",
+            "correct": false,
+            "option_id": "847eb876-c882-4604-914a-1b3bd491a24e"
+          },
+          {
+            "type": "text",
+            "content": "5毫升每分钟每1.73平方米(m²)",
+            "correct": false,
+            "option_id": "625fd09c-3ff4-4c0f-898c-2d050ac95f17"
+          },
+          {
+            "type": "text",
+            "content": "20毫升每分钟每1.73平方米(m²)",
+            "correct": false,
+            "option_id": "64b7222a-f98e-4de9-b493-2c12883bce04"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第5次平时测试原卷PDF",
+            "locator": "第10题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "4c69a5d6-5aab-4b55-b0c4-7a7d94b9db8c",
+        "question": [
+          {
+            "type": "text",
+            "content": "以下不是慢性肾脏病患者贫血的原因"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "EPO生成不足",
+            "correct": false,
+            "option_id": "dfedda45-a214-429a-9e2a-676365cc25ba"
+          },
+          {
+            "type": "text",
+            "content": "铁调素不足",
+            "correct": true,
+            "option_id": "b88b8dde-5142-4eac-9cc9-536d8d8b2b7f"
+          },
+          {
+            "type": "text",
+            "content": "铁代谢障碍",
+            "correct": false,
+            "option_id": "117df31b-b4c6-455e-924e-52d7f00b0c85"
+          },
+          {
+            "type": "text",
+            "content": "红细胞寿命缩短",
+            "correct": false,
+            "option_id": "6331f2f1-87ae-4d30-ae94-221787b1a48f"
+          },
+          {
+            "type": "text",
+            "content": "EPO活性被毒素抑制",
+            "correct": false,
+            "option_id": "96354709-873f-45b4-8924-0a80219fc1e2"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第5次平时测试原卷PDF",
+            "locator": "第11题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "309e1dbe-f696-4d01-89da-21cacdcb112a",
+        "question": [
+          {
+            "type": "text",
+            "content": "慢性肾脏病矿物质与骨异常（chronic kidney disease-mineral and bone disorder，CKD-MBD）不包括以下什么症状"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "血磷异常",
+            "correct": false,
+            "option_id": "8a4c9c1e-8ead-4e3b-bdac-cd3f647187fb"
+          },
+          {
+            "type": "text",
+            "content": "血钠异常",
+            "correct": true,
+            "option_id": "486febca-a0e1-44ea-93be-a028baff40c1"
+          },
+          {
+            "type": "text",
+            "content": "血钙异常",
+            "correct": false,
+            "option_id": "2d52a22d-1cc0-4120-8b97-25ffddb675f0"
+          },
+          {
+            "type": "text",
+            "content": "PTH异常",
+            "correct": false,
+            "option_id": "f39b9682-2d69-49ba-9138-8ac9a8a297a7"
+          },
+          {
+            "type": "text",
+            "content": "血管钙化",
+            "correct": false,
+            "option_id": "61da5fe8-fec5-45e4-a29b-0331bab32e97"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第5次平时测试原卷PDF",
+            "locator": "第12题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "bb6b9c5e-6021-46a1-b4e5-2c6fc33e9271",
+        "question": [
+          {
+            "type": "text",
+            "content": "腹膜透析不具有以下特点"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "对中分子毒素清除效果较血透好",
+            "correct": false,
+            "option_id": "7125274a-a58b-489c-9852-d035e85ca116"
+          },
+          {
+            "type": "text",
+            "content": "有发生腹膜炎的可能",
+            "correct": false,
+            "option_id": "332142c7-e98c-48b2-a680-58e58d4f7b81"
+          },
+          {
+            "type": "text",
+            "content": "避免了通过血液交叉感染某些传染病",
+            "correct": false,
+            "option_id": "19f0c17e-db81-4725-8dab-353cd8a7f759"
+          },
+          {
+            "type": "text",
+            "content": "每周三次在医院完成治疗，安全性高",
+            "correct": true,
+            "option_id": "318cea85-f75d-4d3c-a355-ca761dbd9b4b"
+          },
+          {
+            "type": "text",
+            "content": "血流动力学相对稳定，能更好地保护残余肾功能",
+            "correct": false,
+            "option_id": "83cee36f-0652-440d-aba1-49bdb9013cde"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第5次平时测试原卷PDF",
+            "locator": "第13题",
+            "note": "平台逐题公布的正确答案"
+          },
+          {
+            "title": "高通量血液透析与腹膜透析清除率比较",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16820785/"
+          },
+          {
+            "title": "课程课件: 慢性肾衰竭与肾脏替代治疗",
+            "locator": "第46页"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "学在浙大给出答案为D。腹膜透析通常在家持续或每日进行, 而非每周三次在医院完成; A的中分子清除效果受透析膜和具体方案影响, 不能一概比较。"
+          }
+        ]
+      },
+      {
+        "question_id": "2224c346-4f91-443f-a12d-5ee7cc15ab71",
+        "question": [
+          {
+            "type": "text",
+            "content": "肾脏每日产生大概多少原尿"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "10L",
+            "correct": false,
+            "option_id": "3f9ec321-27bc-40ca-bef2-c6c31eebabf3"
+          },
+          {
+            "type": "text",
+            "content": "50L",
+            "correct": false,
+            "option_id": "7d4d73db-411d-4372-b928-908427cb6969"
+          },
+          {
+            "type": "text",
+            "content": "200L",
+            "correct": true,
+            "option_id": "99c413dc-5467-47c0-b93c-bb3e8aff333d"
+          },
+          {
+            "type": "text",
+            "content": "500L",
+            "correct": false,
+            "option_id": "f8ed5535-7172-43db-8af2-524b14110181"
+          },
+          {
+            "type": "text",
+            "content": "20L",
+            "correct": false,
+            "option_id": "9279a4aa-f8f3-4c2d-9064-0db8ba0f7a4e"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第5次平时测试原卷PDF",
+            "locator": "第14题",
+            "note": "平台逐题公布的正确答案"
+          },
+          {
+            "title": "课程课件: 泌尿系统疾病总论",
+            "locator": "第10页"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "学在浙大给出答案为C。课程课件记载每日原尿约180 L, 题目所列选项中200 L最接近。"
+          }
+        ]
+      },
+      {
+        "question_id": "cb04347a-d65b-4ba8-a58d-ead7c383dc9a",
+        "question": [
+          {
+            "type": "text",
+            "content": "管－球反馈环路感受器细胞"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "致密斑细胞",
+            "correct": true,
+            "option_id": "e06b9ec3-1c40-4bda-84df-c930431585ea"
+          },
+          {
+            "type": "text",
+            "content": "内皮细胞",
+            "correct": false,
+            "option_id": "97c7e243-47f4-44c5-b760-79539ff23fef"
+          },
+          {
+            "type": "text",
+            "content": "近段小管细胞",
+            "correct": false,
+            "option_id": "774d85bb-e590-41cc-aa47-9450cd6fef85"
+          },
+          {
+            "type": "text",
+            "content": "足细胞",
+            "correct": false,
+            "option_id": "1af9d485-d3ec-41ea-93dc-30180de46ea1"
+          },
+          {
+            "type": "text",
+            "content": "系膜细胞",
+            "correct": false,
+            "option_id": "795c75ce-9307-48b3-8866-71ba25ddabf6"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第5次平时测试原卷PDF",
+            "locator": "第15题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "d27f4eec-599c-4899-a97a-15959b885159",
+        "question": [
+          {
+            "type": "text",
+            "content": "认真仔细地选择使病人受益与代价比例适当的诊疗措施。遵循的是临床诊疗的医学道德原则中的？"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "最优化原则",
+            "correct": true,
+            "option_id": "c690f63b-8fa1-4475-a513-30115631c480"
+          },
+          {
+            "type": "text",
+            "content": "协调一致原则",
+            "correct": false,
+            "option_id": "c484c84d-cb79-46d4-bafc-754c42438174"
+          },
+          {
+            "type": "text",
+            "content": "知情同意原则",
+            "correct": false,
+            "option_id": "717f8021-e700-4682-92d4-2e821f4ba4bf"
+          },
+          {
+            "type": "text",
+            "content": "整体化原则",
+            "correct": false,
+            "option_id": "f46c8837-dbd3-4825-99cb-c13d229e2b83"
+          },
+          {
+            "type": "text",
+            "content": "及时准确有效的原则",
+            "correct": false,
+            "option_id": "c0a2e834-8413-482a-bf8c-5ccd04888bd7"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第5次平时测试原卷PDF",
+            "locator": "第16题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "f0efc0a7-28a4-4d67-a139-a25e7393ff8c",
+        "question": [
+          {
+            "type": "text",
+            "content": "关于医学科研设计基本原则中的对照原则，下列哪项不正确"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "自身对照",
+            "correct": false,
+            "option_id": "8db6613d-71f0-41d8-89a5-9eafce01bedd"
+          },
+          {
+            "type": "text",
+            "content": "互相对照",
+            "correct": false,
+            "option_id": "6f38c8e1-77f1-4ea9-a2db-ec8d69f350e5"
+          },
+          {
+            "type": "text",
+            "content": "空白对照",
+            "correct": false,
+            "option_id": "c9fa5d6b-7155-460c-8a72-6d3db1c3ae61"
+          },
+          {
+            "type": "text",
+            "content": "安慰剂对照",
+            "correct": false,
+            "option_id": "580ab41b-d500-4410-a79e-e8b4d6df66fd"
+          },
+          {
+            "type": "text",
+            "content": "非标准对照",
+            "correct": true,
+            "option_id": "8c47eae3-3c92-4117-b483-956b84ce0aa1"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第5次平时测试原卷PDF",
+            "locator": "第17题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "271885b9-b109-4a48-9f20-4ab93bf2e83b",
+        "question": [
+          {
+            "type": "text",
+            "content": "以下哪个临床问题属于背景问题？"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "对合并糖尿病肾病的高血压病人应该将其血压控制到多少为佳？",
+            "correct": false,
+            "option_id": "7a5080df-9892-407b-8bc1-204f1412f7b7"
+          },
+          {
+            "type": "text",
+            "content": "血管紧张素转化酶抑制剂的降压原理是什么？",
+            "correct": true,
+            "option_id": "75b0c043-dc64-40fd-b3bd-0a671541d79f"
+          },
+          {
+            "type": "text",
+            "content": "结核性胸膜炎给予强的松口服治疗是否可以减轻结核中毒症状和防止胸膜粘连？",
+            "correct": false,
+            "option_id": "acfc6ba7-7713-4a50-8314-cbe93330683a"
+          },
+          {
+            "type": "text",
+            "content": "心肌梗死后的室性心律失常应该用哪种抗心律失常药为佳？",
+            "correct": false,
+            "option_id": "4bc1d08a-eb8c-4504-bae1-5883f3271f3d"
+          },
+          {
+            "type": "text",
+            "content": "孕妇应用非甾体药物（NSAIZ）是否会导致流产的危险？",
+            "correct": false,
+            "option_id": "96b50105-9695-48e4-bc3c-6b9b3c78291a"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第5次平时测试原卷PDF",
+            "locator": "第18题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "bc0a4d74-6bdf-4953-a793-1345347a134e",
+        "question": [
+          {
+            "type": "text",
+            "content": "在临床医学研究中，可以获得意外损伤赔偿是指"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "意外损伤者或死亡者家属有权获得因实验意外损伤而应得的公平赔偿",
+            "correct": true,
+            "option_id": "87f3fe2f-80d0-4496-80c7-eddf0fc6f39a"
+          },
+          {
+            "type": "text",
+            "content": "对可预见的不良反应可以酌情给予赔偿",
+            "correct": false,
+            "option_id": "276c236e-36ce-4bc8-81f6-54fbbf41da16"
+          },
+          {
+            "type": "text",
+            "content": "可预见的不良反应可以接受赔偿",
+            "correct": false,
+            "option_id": "e2567026-bd80-4a5e-ad68-4cd4b83e26ae"
+          },
+          {
+            "type": "text",
+            "content": "死亡者家属是无权力要求获得赔偿的",
+            "correct": false,
+            "option_id": "325fd4e7-b06e-4da5-9225-0c5d74d0bac4"
+          },
+          {
+            "type": "text",
+            "content": "因参加试验而意外受损伤者有权力要求获得高额赔偿",
+            "correct": false,
+            "option_id": "ada7b3f7-d3fe-4d69-9472-25dc57626853"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第5次平时测试原卷PDF",
+            "locator": "第19题",
+            "note": "平台逐题公布的正确答案"
+          },
+          {
+            "title": "世界医学会赫尔辛基宣言",
+            "url": "https://www.wma.net/policies-post/wma-declaration-of-helsinki/"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "学在浙大给出答案为A。参加研究受到损害的受试者应获得适当治疗和补偿; 可预见的不良反应是否获得补偿还需结合损害原因和适用规定, 不能仅凭“可预见”排除。"
+          }
+        ]
+      },
+      {
+        "question_id": "fa23d86a-37db-42b5-ac9d-4bd90283ee36",
+        "question": [
+          {
+            "type": "text",
+            "content": "某研究者，为了验证氯霉素对伤寒的疗效，在408例伤寒病人中进行对照实验，其中251例用氯霉素治疗，其余157例不用。结果使用组251人中死亡20人，死亡率7.07%，未用组157人中死亡36人，病死率22.8%，已有结论被亲自证实。下面哪种说法是错误的"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "在临床医学研究中，使用安慰剂是心理实验，但要付出道德代价",
+            "correct": false,
+            "option_id": "4c49332c-439f-4c2c-9b62-b9520b357daa"
+          },
+          {
+            "type": "text",
+            "content": "无道德代价的实验，在医学科学方面是可以全部做到的",
+            "correct": true,
+            "option_id": "f3b9b1a7-c4ab-4b21-94c0-a47981db0221"
+          },
+          {
+            "type": "text",
+            "content": "安慰剂虽没有药理作用，但确有一定的效果",
+            "correct": false,
+            "option_id": "1e987d79-61ae-4500-8e09-711e5ee2a9f7"
+          },
+          {
+            "type": "text",
+            "content": "无道德代价的实验，在医学科学方面并非都能做到",
+            "correct": false,
+            "option_id": "5e5df12f-cdda-4ab3-b171-316466eac9a3"
+          },
+          {
+            "type": "text",
+            "content": "人体实验在临床医学中的价值和道德意义是无可非议的",
+            "correct": false,
+            "option_id": "36111184-f4ac-4f0b-b68b-b4de5d851e60"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第5次平时测试原卷PDF",
+            "locator": "第20题",
+            "note": "平台逐题公布的正确答案"
+          },
+          {
+            "title": "世界医学会赫尔辛基宣言",
+            "url": "https://www.wma.net/policies-post/wma-declaration-of-helsinki/"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "学在浙大给出答案为B。研究不可一概视为能够完全避免伦理代价; A对安慰剂的表述也过于绝对, 是否符合伦理取决于具体条件。原题20/251约为7.97%, 36/157约为22.93%, 与题面百分比不一致。"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1050 @@
+{
+  "title": "平时测试3",
+  "author": [],
+  "description": "答案来自平台公布的正确答案",
+  "mcqs": {
+    "description": "单选题",
+    "questions": [
+      {
+        "question_id": "7f1b7a2c-b6a0-4d5e-9d95-c1a868f8377f",
+        "question": [
+          {
+            "type": "text",
+            "content": "卡托普利试验是哪种继发性高血压的确诊实验？"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "肾血管性高血压",
+            "correct": false,
+            "option_id": "91b4643d-6b3d-48e8-bfff-9f62918170d9"
+          },
+          {
+            "type": "text",
+            "content": "肾实质性高血压",
+            "correct": false,
+            "option_id": "5baa0960-e2e1-4176-90f4-118e858af1cf"
+          },
+          {
+            "type": "text",
+            "content": "嗜铬细胞瘤",
+            "correct": false,
+            "option_id": "d7ee8744-46dd-4619-9540-e39aa54f6dc7"
+          },
+          {
+            "type": "text",
+            "content": "焦虑症",
+            "correct": false,
+            "option_id": "c86ab02f-f163-43d6-9023-6ac4a36b89de"
+          },
+          {
+            "type": "text",
+            "content": "原发性醛固酮增多症",
+            "correct": true,
+            "option_id": "acb286aa-28ea-43d1-89cd-fb913d85989b"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第3次平时测试界面抄录",
+            "locator": "第1题",
+            "note": "平台逐题公布的正确答案"
+          },
+          {
+            "title": "2025 Endocrine Society 原醛症指南",
+            "url": "https://academic.oup.com/jcem/article/110/9/2453/8196671"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "学在浙大给出答案为E。卡托普利抑制试验可用于原发性醛固酮增多症的确证性评估; 同名的卡托普利激发肾素试验也曾用于肾血管性高血压筛查, 两者目的不同。"
+          }
+        ]
+      },
+      {
+        "question_id": "c59afdc2-b992-458c-84b8-c1d2211d66ea",
+        "question": [
+          {
+            "type": "text",
+            "content": "下列哪个选项是左心功能不全的临床表现"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "双下肢凹陷性水肿",
+            "correct": false,
+            "option_id": "056529cf-55f7-441c-bcfd-c597eb9645c4"
+          },
+          {
+            "type": "text",
+            "content": "高血压",
+            "correct": false,
+            "option_id": "001f2469-9b55-472c-a9a9-b4f3cdbdf21d"
+          },
+          {
+            "type": "text",
+            "content": "颈静脉怒张",
+            "correct": false,
+            "option_id": "0ec11569-2c39-44f1-b6dc-4de7ea26bcc7"
+          },
+          {
+            "type": "text",
+            "content": "夜间阵发性呼吸困难",
+            "correct": true,
+            "option_id": "b4975d44-4ebd-466f-b130-d04d485dae38"
+          },
+          {
+            "type": "text",
+            "content": "肝淤血肿大",
+            "correct": false,
+            "option_id": "0bf2819d-16e8-4b90-880c-e41cb70e6d9a"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第3次平时测试界面抄录",
+            "locator": "第2题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "7675f082-c9e6-4925-90d3-a845800e1cb0",
+        "question": [
+          {
+            "type": "text",
+            "content": "属于加拿大心血管病学会心绞痛严重程度分级IV级的是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "一般体力活动轻度受限，一般情况下平地步行200m以上或登楼一层以上受限",
+            "correct": false,
+            "option_id": "c2edd3b3-432d-4e3a-9f72-58ac16f184a3"
+          },
+          {
+            "type": "text",
+            "content": "一般体力活动明显受限，一般情况下平地步行200m内，或登楼一层引起心绞痛",
+            "correct": false,
+            "option_id": "bf8afa93-bba6-468a-a44d-c914d737bfa8"
+          },
+          {
+            "type": "text",
+            "content": "任何体力活动均不受限",
+            "correct": false,
+            "option_id": "6a310431-4b0a-42a4-96e0-a99bedaf56c2"
+          },
+          {
+            "type": "text",
+            "content": "一般体力活动不受限，仅在强、快或持续用力时发生心绞痛",
+            "correct": false,
+            "option_id": "da9c1728-6f58-4858-8718-86a208950c08"
+          },
+          {
+            "type": "text",
+            "content": "轻微活动或休息时即可发生心绞痛",
+            "correct": true,
+            "option_id": "bdbc7a2a-90f3-4eb5-aa1a-13a7fefd33b6"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第3次平时测试界面抄录",
+            "locator": "第3题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "14b4ce55-d795-4319-bb02-944c145326d8",
+        "question": [
+          {
+            "type": "text",
+            "content": "以下不属于继发性高血压病因的是？"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "肾动脉肌纤维发育不良",
+            "correct": false,
+            "option_id": "f3fcb4cb-c53b-404d-b16f-faa91ef7bf17"
+          },
+          {
+            "type": "text",
+            "content": "甲状腺功能亢进",
+            "correct": false,
+            "option_id": "4451a023-ceb0-4819-9a2f-5735f25283ae"
+          },
+          {
+            "type": "text",
+            "content": "肥胖",
+            "correct": true,
+            "option_id": "94e55528-0747-4633-9b5d-90dc8e08a3c5"
+          },
+          {
+            "type": "text",
+            "content": "睡眠呼吸暂停",
+            "correct": false,
+            "option_id": "8cbe1649-0e75-4617-b914-7c8b1ac04f6c"
+          },
+          {
+            "type": "text",
+            "content": "肾上腺腺瘤",
+            "correct": false,
+            "option_id": "9a01d7ac-cd0f-4a24-9b67-4e99bcfc0745"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第3次平时测试界面抄录",
+            "locator": "第4题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "310f7d63-8b31-4517-bf64-2c80b5fa03f8",
+        "question": [
+          {
+            "type": "text",
+            "content": "下列哪个药物属于排钾利尿剂"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "厄贝沙坦",
+            "correct": false,
+            "option_id": "9cc3a4e0-e3e8-4d63-b721-573df7fbae55"
+          },
+          {
+            "type": "text",
+            "content": "美托洛尔",
+            "correct": false,
+            "option_id": "f39d2220-bbad-417a-82fb-5d86b37d7fba"
+          },
+          {
+            "type": "text",
+            "content": "氨氯地平",
+            "correct": false,
+            "option_id": "deabb312-656b-49f2-b658-021f7bcd908b"
+          },
+          {
+            "type": "text",
+            "content": "呋噻米",
+            "correct": true,
+            "option_id": "cd00ce9f-21a1-47a0-a32e-92930fe448ef"
+          },
+          {
+            "type": "text",
+            "content": "螺内酯",
+            "correct": false,
+            "option_id": "88c66740-ce03-4207-82e3-674bb2afc67b"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第3次平时测试界面抄录",
+            "locator": "第5题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "30148c7c-ec19-4dc6-910c-97eb4e052547",
+        "question": [
+          {
+            "type": "text",
+            "content": "下列哪项不是房颤治疗策略中的「心律控制」方法"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "导管消融",
+            "correct": false,
+            "option_id": "657b8551-b27f-4655-9ad6-b47a50a4b874"
+          },
+          {
+            "type": "text",
+            "content": "单纯抗凝",
+            "correct": true,
+            "option_id": "b06bceaa-bc1b-4a74-8158-00ae96ec9c5a"
+          },
+          {
+            "type": "text",
+            "content": "房室结消融+起搏",
+            "correct": false,
+            "option_id": "23571583-c7f3-484f-b742-a06efb09c4fd"
+          },
+          {
+            "type": "text",
+            "content": "药物恢复窦律",
+            "correct": false,
+            "option_id": "9fe3df73-fc10-401f-9f45-ce5088d924bd"
+          },
+          {
+            "type": "text",
+            "content": "电复律",
+            "correct": false,
+            "option_id": "9777c3ba-3af0-4eba-8c0f-803321c81eb7"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第3次平时测试界面抄录",
+            "locator": "第6题",
+            "note": "平台逐题公布的正确答案"
+          },
+          {
+            "title": "2023 ACC/AHA 房颤指南",
+            "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001193"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "学在浙大给出答案为B。抗凝主要用于预防血栓, 不负责恢复或维持窦律; 但C的房室结消融加起搏主要控制心室率, 同样不属于恢复窦律的心律控制, 题目存在两个可争议选项。"
+          }
+        ]
+      },
+      {
+        "question_id": "04bc9f27-6449-4f56-8f1c-816cef2fda86",
+        "question": [
+          {
+            "type": "text",
+            "content": "下列哪个情况会增加心脏后负荷"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "主动脉瓣关闭不全",
+            "correct": false,
+            "option_id": "bb0d18c6-68c4-4935-9895-699f7ca992cf"
+          },
+          {
+            "type": "text",
+            "content": "主动脉瓣狭窄",
+            "correct": true,
+            "option_id": "6096ce6e-3658-45c3-a9f5-799ecb2f3815"
+          },
+          {
+            "type": "text",
+            "content": "缩窄性心包炎",
+            "correct": false,
+            "option_id": "2ba9b7cd-b89a-4d67-a66c-9277ae9ba28c"
+          },
+          {
+            "type": "text",
+            "content": "室间隔缺损",
+            "correct": false,
+            "option_id": "f04b488f-585a-4fb9-99d9-16438e6e7cca"
+          },
+          {
+            "type": "text",
+            "content": "甲亢",
+            "correct": false,
+            "option_id": "779afc4b-85e1-42b0-9337-b3006f626fbf"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第3次平时测试界面抄录",
+            "locator": "第7题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "a738909e-b0bc-4d80-b162-3db5c5946ad8",
+        "question": [
+          {
+            "type": "text",
+            "content": "致心律失常型右室心肌病的组织病理学特点是？"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "心肌肥大",
+            "correct": false,
+            "option_id": "106d46cc-27c8-4857-8da9-dab7fdb525c5"
+          },
+          {
+            "type": "text",
+            "content": "心肌脂肪组织浸润",
+            "correct": true,
+            "option_id": "8f3c8179-6624-46cd-98f9-d6fa3e071b64"
+          },
+          {
+            "type": "text",
+            "content": "异常粗大的肌小梁结构",
+            "correct": false,
+            "option_id": "3273a5a2-dd34-42ba-8ed4-57ea34a7adb2"
+          },
+          {
+            "type": "text",
+            "content": "胶原沉积",
+            "correct": false,
+            "option_id": "feb14268-2882-4375-ac43-32ea71e011f5"
+          },
+          {
+            "type": "text",
+            "content": "心内膜增厚、回声增强",
+            "correct": false,
+            "option_id": "8c259001-9166-4877-a044-64b0ea688fc7"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第3次平时测试界面抄录",
+            "locator": "第8题",
+            "note": "平台逐题公布的正确答案"
+          },
+          {
+            "title": "致心律失常型右室心肌病诊断标准",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2848326/"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "B是所列选项中最符合课程考点的一项。更完整的病理特点是心肌细胞减少并由纤维脂肪组织替代, 脂肪浸润本身不能单独确诊。"
+          }
+        ]
+      },
+      {
+        "question_id": "941dc265-bf05-4ad4-b779-8d52ac925d8b",
+        "question": [
+          {
+            "type": "text",
+            "content": "动脉粥样硬化性心血管病风险干预的首要靶点是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "LDL-C",
+            "correct": true,
+            "option_id": "e2f0cedd-ca21-4b01-a18c-5fb9fb0ad406"
+          },
+          {
+            "type": "text",
+            "content": "ApoB",
+            "correct": false,
+            "option_id": "07ea9c3b-7af1-45b8-8a6f-ebd106ab1a9f"
+          },
+          {
+            "type": "text",
+            "content": "TG",
+            "correct": false,
+            "option_id": "1a21ad4b-e723-4562-a5c4-3b68189cfc47"
+          },
+          {
+            "type": "text",
+            "content": "非HDL-C",
+            "correct": false,
+            "option_id": "4db7abeb-67c1-43df-b753-47d1f0abf952"
+          },
+          {
+            "type": "text",
+            "content": "Lp(a)",
+            "correct": false,
+            "option_id": "4f6575e3-b90a-4ca6-bddd-c0d120e3dd6a"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第3次平时测试界面抄录",
+            "locator": "第9题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "课程将LDL-C列为动脉粥样硬化性心血管病的血脂干预首要靶点; 整体风险管理还应关注血压、吸烟及其他危险因素。"
+          }
+        ]
+      },
+      {
+        "question_id": "d8629254-e975-42b1-86ed-b992a5f573d4",
+        "question": [
+          {
+            "type": "text",
+            "content": "房颤患者CHA₂DS₂-VASc评分中，年龄65-74岁应计多少分？"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "4分",
+            "correct": false,
+            "option_id": "9f8fb2ce-ae9e-407d-9fca-e372932a0494"
+          },
+          {
+            "type": "text",
+            "content": "2分",
+            "correct": false,
+            "option_id": "01316014-c454-4ecc-86c0-98ca3a0655bc"
+          },
+          {
+            "type": "text",
+            "content": "3分",
+            "correct": false,
+            "option_id": "92445c26-76d2-49ee-9a9f-635746684f17"
+          },
+          {
+            "type": "text",
+            "content": "0分",
+            "correct": false,
+            "option_id": "08cc940c-6485-4f68-8be3-56034a7e3a5e"
+          },
+          {
+            "type": "text",
+            "content": "1分",
+            "correct": true,
+            "option_id": "b40777f0-23d8-46ff-8f4a-fe7f55e2967b"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第3次平时测试界面抄录",
+            "locator": "第10题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "8f5d4c41-5d78-47e2-a26c-9185cfebbf76",
+        "question": [
+          {
+            "type": "text",
+            "content": "合并慢性肾脏功能不全的高血压患者首选哪种类型降压药物？"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "ACEI或ARB类",
+            "correct": true,
+            "option_id": "1b4005b1-4b94-4632-8e7c-bd24155a4aa5"
+          },
+          {
+            "type": "text",
+            "content": "硝酸酯类药物",
+            "correct": false,
+            "option_id": "e0025c69-8fac-4faa-9ab5-cf2c8c5a8f19"
+          },
+          {
+            "type": "text",
+            "content": "利尿剂",
+            "correct": false,
+            "option_id": "4d02b68c-94d8-483a-b02c-e5431f0c72f0"
+          },
+          {
+            "type": "text",
+            "content": "β受体阻滞剂",
+            "correct": false,
+            "option_id": "84a2f045-9eb0-4213-aac0-8a963f54206b"
+          },
+          {
+            "type": "text",
+            "content": "钙离子拮抗剂",
+            "correct": false,
+            "option_id": "38893fe6-0692-4574-9df2-54c04fb42d9c"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第3次平时测试界面抄录",
+            "locator": "第11题",
+            "note": "平台逐题公布的正确答案"
+          },
+          {
+            "title": "KDIGO 2024 慢性肾脏病指南",
+            "url": "https://kdigo.org/wp-content/uploads/2024/03/KDIGO-2024-CKD-Guideline.pdf"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "课程推荐ACEI或ARB, 尤其适用于伴白蛋白尿的慢性肾脏病患者; 用药时需监测血肌酐和血钾, ACEI与ARB不联用。"
+          }
+        ]
+      },
+      {
+        "question_id": "ed286be2-4491-4b10-b3c2-8039b237b59f",
+        "question": [
+          {
+            "type": "text",
+            "content": "关于脉冲消融的特点，下列说法错误的是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "在优化参数后可减少对邻近神经的损伤",
+            "correct": false,
+            "option_id": "f6e82e28-5ba6-4a22-817c-546c7ebca6f0"
+          },
+          {
+            "type": "text",
+            "content": "可用于房颤导管消融",
+            "correct": false,
+            "option_id": "56a6317f-82c0-4d74-bc03-650b4350a470"
+          },
+          {
+            "type": "text",
+            "content": "脉冲消融不会出现任何并发症",
+            "correct": true,
+            "option_id": "29b75d58-6dd5-4d27-8497-33a55663d9e5"
+          },
+          {
+            "type": "text",
+            "content": "对不同组织有不同的损伤阈值",
+            "correct": false,
+            "option_id": "45bcf2f0-7b70-4376-a8ce-6a50534d4686"
+          },
+          {
+            "type": "text",
+            "content": "通过不可逆电穿孔损伤病灶组织",
+            "correct": false,
+            "option_id": "a35e5bcf-4b03-4249-b330-562b8cb14854"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第3次平时测试界面抄录",
+            "locator": "第12题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "c4cd2cc7-6dc4-4bb5-80a2-c2d3f651b229",
+        "question": [
+          {
+            "type": "text",
+            "content": "以下关于溶栓再通指标，描述不正确的一项是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "胸痛2小时内迅速缓解或消失",
+            "correct": false,
+            "option_id": "e0d66ccd-60e1-40cb-9a76-de3694b5bc1a"
+          },
+          {
+            "type": "text",
+            "content": "冠状动脉造影证实原来闭塞的血管恢复前向血流",
+            "correct": false,
+            "option_id": "b226c679-05f7-47d8-bf48-3ba96a5afb5c"
+          },
+          {
+            "type": "text",
+            "content": "2小时内抬高的ST段迅速回降>50%或恢复至等电位",
+            "correct": false,
+            "option_id": "6457b394-27fb-4146-be10-b5844b452186"
+          },
+          {
+            "type": "text",
+            "content": "2小时内出现再灌注心律失常",
+            "correct": false,
+            "option_id": "bdcff2ba-1a6d-4047-bd52-19314b1d7022"
+          },
+          {
+            "type": "text",
+            "content": "血清心肌酶CK-MB峰值提前至发病后2小时以内",
+            "correct": true,
+            "option_id": "f01cc437-4128-4266-8d94-14e6809bc037"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第3次平时测试界面抄录",
+            "locator": "第13题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "f6c9b747-45d4-4284-909c-2148a26eb9d6",
+        "question": [
+          {
+            "type": "text",
+            "content": "以下哪一项不是动脉粥样硬化的主要危险因素"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "血脂异常",
+            "correct": false,
+            "option_id": "fc06baeb-710d-4bac-a368-83ca09da6f4a"
+          },
+          {
+            "type": "text",
+            "content": "年龄",
+            "correct": false,
+            "option_id": "1b83da82-fbf8-4826-a50f-a62c03b26523"
+          },
+          {
+            "type": "text",
+            "content": "糖尿病",
+            "correct": false,
+            "option_id": "01441cd1-665f-4585-a806-008335629b47"
+          },
+          {
+            "type": "text",
+            "content": "吸烟",
+            "correct": false,
+            "option_id": "c1793205-f4b9-4157-8e0e-777ad94271d0"
+          },
+          {
+            "type": "text",
+            "content": "维生素B缺乏",
+            "correct": true,
+            "option_id": "4491324a-c9f7-4d9a-8182-92ec0a31e498"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第3次平时测试界面抄录",
+            "locator": "第14题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "2df35722-ba4c-4b43-ae2f-6f37fb26d2b1",
+        "question": [
+          {
+            "type": "text",
+            "content": "心衰急性发作最常见诱因"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "瓣膜性心脏病",
+            "correct": false,
+            "option_id": "8248ea65-96bf-4376-ac34-539ab7b7d521"
+          },
+          {
+            "type": "text",
+            "content": "遗传性心肌病",
+            "correct": false,
+            "option_id": "92e1b706-02d4-44b0-ac4a-3f43bb686400"
+          },
+          {
+            "type": "text",
+            "content": "冠心病",
+            "correct": false,
+            "option_id": "33bcb5bb-2321-45e0-9456-667b64998b8b"
+          },
+          {
+            "type": "text",
+            "content": "原发性高血压",
+            "correct": false,
+            "option_id": "0ccca5fe-8acb-4759-8c11-5923f1440722"
+          },
+          {
+            "type": "text",
+            "content": "急性感染",
+            "correct": true,
+            "option_id": "cd9a5a00-5f07-4aea-aa5e-dc643481ec16"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第3次平时测试界面抄录",
+            "locator": "第15题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "22c7d569-4b8b-449d-a0ba-f0d47141c0e0",
+        "question": [
+          {
+            "type": "text",
+            "content": "高血压发病机制不包括"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "血管机制",
+            "correct": false,
+            "option_id": "febcc8f1-cec1-45a5-89e7-a139f45d4b48"
+          },
+          {
+            "type": "text",
+            "content": "神经体液机制",
+            "correct": false,
+            "option_id": "3474fe46-ebd8-4e81-ab32-eb97982bb2c8"
+          },
+          {
+            "type": "text",
+            "content": "肾脏机制",
+            "correct": false,
+            "option_id": "bf78595e-6637-4568-94d9-2349492962f6"
+          },
+          {
+            "type": "text",
+            "content": "激素机制",
+            "correct": false,
+            "option_id": "85be168a-9029-41b1-a432-1b4e43968d90"
+          },
+          {
+            "type": "text",
+            "content": "精神心理机制",
+            "correct": true,
+            "option_id": "2a6bad59-9b78-4ee0-adc4-81cfd1c648be"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第3次平时测试界面抄录",
+            "locator": "第16题",
+            "note": "平台逐题公布的正确答案"
+          },
+          {
+            "title": "AHA 压力与高血压",
+            "url": "https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure/managing-stress-to-control-high-blood-pressure"
+          },
+          {
+            "title": "课程课件: 2026-10-12日-第一部分高血压",
+            "locator": "第6页"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "学在浙大给出答案为E。课程课件将心理社会因素列为高血压危险因素, 应激可通过交感神经和激素反应影响血压; 危险因素与发病机制的分类并不完全相同, 将E直接排除存在争议。"
+          }
+        ]
+      },
+      {
+        "question_id": "afab7622-7e4b-419b-b424-f705096c71f4",
+        "question": [
+          {
+            "type": "text",
+            "content": "关于预激综合征，下列说法正确的是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "预激综合征与房颤无关",
+            "correct": false,
+            "option_id": "fc020b35-a6b0-4770-9bec-c8e62a7c867c"
+          },
+          {
+            "type": "text",
+            "content": "预激综合征的PR间期正常",
+            "correct": false,
+            "option_id": "7e065cf6-2d73-47f0-be08-6c4049653d32"
+          },
+          {
+            "type": "text",
+            "content": "仅在运动时才出现心电图变化",
+            "correct": false,
+            "option_id": "9c95d054-c6af-432f-98d1-dfc89f09d1d1"
+          },
+          {
+            "type": "text",
+            "content": "所有患者均需射频消融治疗",
+            "correct": false,
+            "option_id": "57b48c5a-cafc-4142-8b21-36486444eeeb"
+          },
+          {
+            "type": "text",
+            "content": "心电图可见δ波和短PR间期",
+            "correct": true,
+            "option_id": "0a43b933-14a8-4ee7-84ec-4894a6f71c56"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第3次平时测试界面抄录",
+            "locator": "第17题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "6728fdad-a5a3-4407-869f-2e35bf8a2e86",
+        "question": [
+          {
+            "type": "text",
+            "content": "下列哪一种抗心律失常药物属于β受体阻滞剂？"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "利多卡因",
+            "correct": false,
+            "option_id": "5fb99db5-8aec-4054-87e9-cec9670a21a8"
+          },
+          {
+            "type": "text",
+            "content": "索他洛尔",
+            "correct": false,
+            "option_id": "2ab25e23-af95-4348-81ec-3a51016eba02"
+          },
+          {
+            "type": "text",
+            "content": "美托洛尔",
+            "correct": true,
+            "option_id": "234bee47-a424-42e1-91fc-3d386ead53e9"
+          },
+          {
+            "type": "text",
+            "content": "普罗帕酮",
+            "correct": false,
+            "option_id": "9f5a81c8-6c9d-41ec-9dc6-e5a3a582ba47"
+          },
+          {
+            "type": "text",
+            "content": "胺碘酮",
+            "correct": false,
+            "option_id": "3efcb77d-99d6-4e51-bacc-dfd2b6f2420f"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第3次平时测试界面抄录",
+            "locator": "第18题",
+            "note": "平台逐题公布的正确答案"
+          },
+          {
+            "title": "FDA 索他洛尔说明书",
+            "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/205108s003lbl.pdf"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "学在浙大给出答案为C。美托洛尔是β受体阻滞剂; 索他洛尔(B)同时具有β受体阻断和Ⅲ类抗心律失常作用, 按题面表述也符合, 题目存在争议。"
+          }
+        ]
+      },
+      {
+        "question_id": "51701bfc-383c-42f8-a38e-a5a4c4ed1dd8",
+        "question": [
+          {
+            "type": "text",
+            "content": "下列哪项属于β受体阻断剂的使用禁忌症"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "甲状腺功能减退",
+            "correct": false,
+            "option_id": "f764f3c7-7d5a-41f2-a36e-c6414f2ead58"
+          },
+          {
+            "type": "text",
+            "content": "高血压",
+            "correct": false,
+            "option_id": "29c954b0-ff82-432f-8fe3-311a5ba0ffe4"
+          },
+          {
+            "type": "text",
+            "content": "心房颤动",
+            "correct": false,
+            "option_id": "f2cc920e-d509-4b75-bf42-981489608299"
+          },
+          {
+            "type": "text",
+            "content": "慢性肾功能不全",
+            "correct": false,
+            "option_id": "9653eff8-fec5-4120-be58-837e46b2cee9"
+          },
+          {
+            "type": "text",
+            "content": "高度房室传导阻滞",
+            "correct": true,
+            "option_id": "96d6f014-62ea-43d6-98b0-5d3a7699fd47"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第3次平时测试界面抄录",
+            "locator": "第19题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "5ce5c3b9-8cd2-469c-bdf1-c8e361c130c2",
+        "question": [
+          {
+            "type": "text",
+            "content": "极高危NSTE-ACS患者，推荐行PCI的时机是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "72小时内",
+            "correct": false,
+            "option_id": "38537b44-6ab7-4c74-9710-c61744ae0474"
+          },
+          {
+            "type": "text",
+            "content": "24小时内",
+            "correct": false,
+            "option_id": "f5e35750-3422-455d-a464-db82ea0d2721"
+          },
+          {
+            "type": "text",
+            "content": "2小时内",
+            "correct": true,
+            "option_id": "e1458fe6-41da-4a79-8572-a6a52eaada53"
+          },
+          {
+            "type": "text",
+            "content": "12小时内",
+            "correct": false,
+            "option_id": "16ecf460-8982-4a73-a010-d284110692de"
+          },
+          {
+            "type": "text",
+            "content": "1小时内",
+            "correct": false,
+            "option_id": "194e4200-edab-4a0a-8d30-bdac279d9b5d"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第3次平时测试界面抄录",
+            "locator": "第20题",
+            "note": "平台逐题公布的正确答案"
+          },
+          {
+            "title": "2023 ESC 急性冠脉综合征指南",
+            "url": "https://academic.oup.com/eurheartj/article/44/38/3720/7243210"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "学在浙大给出答案为C。课程课件对极高危NSTE-ACS推荐2小时内紧急冠状动脉造影; 后续依据病变及适应证选择PCI或其他血运重建, 不能将所有患者都视为必须直接PCI。"
+          }
+        ]
+      }
+    ]
+  }
+}

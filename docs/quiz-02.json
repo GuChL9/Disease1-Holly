@@ -1,0 +1,1000 @@
+{
+  "title": "平时测试2",
+  "author": [],
+  "description": "答案来自平台公布的正确答案",
+  "mcqs": {
+    "description": "单选题",
+    "questions": [
+      {
+        "question_id": "c808d173-6e1f-40ba-9a78-055def333909",
+        "question": [
+          {
+            "type": "text",
+            "content": "急性早幼粒细胞白血病特异性分子生物学改变是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "AML1/ETO",
+            "correct": false,
+            "option_id": "0cf62a1c-f872-4bf0-9435-50a6a32781eb"
+          },
+          {
+            "type": "text",
+            "content": "PML/RARA",
+            "correct": true,
+            "option_id": "a3bd5d65-5bc4-47be-aa81-33457f9bb20c"
+          },
+          {
+            "type": "text",
+            "content": "BCR/ABL",
+            "correct": false,
+            "option_id": "2cfd4bcf-8d12-4476-938d-d2c195caa80b"
+          },
+          {
+            "type": "text",
+            "content": "FLT3-ITD",
+            "correct": false,
+            "option_id": "453417cb-e568-4a08-a994-98636d979b29"
+          },
+          {
+            "type": "text",
+            "content": "MLL/AF9",
+            "correct": false,
+            "option_id": "7b623cf4-d870-46ca-a828-555d2a6c069b"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第2次平时测试界面抄录",
+            "locator": "第1题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "1676e937-1940-49e2-8306-cb2022076c11",
+        "question": [
+          {
+            "type": "text",
+            "content": "急性白血病与慢性白血病最主要的区别是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "血小板计数",
+            "correct": false,
+            "option_id": "020d11ad-81dc-47c3-8be8-b2c7511e336f"
+          },
+          {
+            "type": "text",
+            "content": "发病时间长短",
+            "correct": false,
+            "option_id": "f0f6039f-6d35-4490-843b-33acc660fcbf"
+          },
+          {
+            "type": "text",
+            "content": "血红蛋白量",
+            "correct": false,
+            "option_id": "34567a39-a6ac-46aa-b2d9-e1a980538c16"
+          },
+          {
+            "type": "text",
+            "content": "白细胞计数",
+            "correct": false,
+            "option_id": "6fb6b882-2cbd-4576-a642-b8bb4f2c7e5b"
+          },
+          {
+            "type": "text",
+            "content": "骨髓幼稚细胞分类及计数",
+            "correct": true,
+            "option_id": "b0ceb1eb-f96c-4697-99bf-94b409dfb7c2"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第2次平时测试界面抄录",
+            "locator": "第2题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "45ad58c3-462b-46c7-a836-afd1ba61bed9",
+        "question": [
+          {
+            "type": "text",
+            "content": "细菌对抗菌药物耐药最主要的机制是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "抗菌药物结合靶位突变",
+            "correct": false,
+            "option_id": "7599e3b3-0e12-4b1a-8dc1-30221c45a66b"
+          },
+          {
+            "type": "text",
+            "content": "产生各种灭活酶",
+            "correct": true,
+            "option_id": "d6a39f62-4d29-4ae4-ad04-90e2d793d48c"
+          },
+          {
+            "type": "text",
+            "content": "外排泵高表达",
+            "correct": false,
+            "option_id": "5acc02a6-c5fd-418a-aea0-58ac5a89f3d7"
+          },
+          {
+            "type": "text",
+            "content": "形成生物被膜",
+            "correct": false,
+            "option_id": "875b891a-55de-421f-b23c-8479e64706c3"
+          },
+          {
+            "type": "text",
+            "content": "形成持留菌",
+            "correct": false,
+            "option_id": "ac18a093-1f43-4e34-9c0c-9f5486de4ca4"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第2次平时测试界面抄录",
+            "locator": "第3题",
+            "note": "平台逐题公布的正确答案"
+          },
+          {
+            "title": "课程课件: 感染性疾病概论及细菌耐药机制",
+            "locator": "第129-130、142、165页"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "学在浙大给出答案为B。灭活酶如β-内酰胺酶可使相应药物失活; 耐药的主要机制取决于菌种和药物, 靶位改变、外排等也可能起主要作用, 不能一概而论。"
+          }
+        ]
+      },
+      {
+        "question_id": "ef02c1f7-8ca0-4b1c-888a-37033f409287",
+        "question": [
+          {
+            "type": "text",
+            "content": "传染病病原体的R0值是指"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "病原体数量",
+            "correct": false,
+            "option_id": "17fbf5f3-e461-4a74-9c3e-48954663859e"
+          },
+          {
+            "type": "text",
+            "content": "流行病学里的“基本传染数”",
+            "correct": true,
+            "option_id": "bee29980-80a4-4965-b3fa-8c1d9626de50"
+          },
+          {
+            "type": "text",
+            "content": "病原体免疫力",
+            "correct": false,
+            "option_id": "7b5fbd5c-56a0-4d5e-92af-74c3ed6a8a7a"
+          },
+          {
+            "type": "text",
+            "content": "病原体毒力",
+            "correct": false,
+            "option_id": "55cac047-c80b-4c0e-8746-81d822c45171"
+          },
+          {
+            "type": "text",
+            "content": "病原体变异性",
+            "correct": false,
+            "option_id": "23208a55-aefa-449d-af26-b1230cbcf026"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第2次平时测试界面抄录",
+            "locator": "第4题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "bc812244-19cf-484f-8180-7fab27183043",
+        "question": [
+          {
+            "type": "text",
+            "content": "急性白血病贫血的主要原因为"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "失血",
+            "correct": false,
+            "option_id": "48be9726-3df2-4de8-889c-7fee2fc6d0cb"
+          },
+          {
+            "type": "text",
+            "content": "红细胞发育受白血病细胞抑制",
+            "correct": true,
+            "option_id": "2e2f929d-bc3d-42bf-86e0-3288d4d169ba"
+          },
+          {
+            "type": "text",
+            "content": "造血原料缺乏",
+            "correct": false,
+            "option_id": "827b9bba-b0c7-4be9-8269-45b1afc05413"
+          },
+          {
+            "type": "text",
+            "content": "无效造血",
+            "correct": false,
+            "option_id": "20fabc52-d5bd-4a09-9918-11da92428d9e"
+          },
+          {
+            "type": "text",
+            "content": "红细胞破坏过多",
+            "correct": false,
+            "option_id": "34c908c6-8450-4c7f-bb92-ce621b25e208"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第2次平时测试界面抄录",
+            "locator": "第5题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "bc74713b-dc6b-4ed8-a89f-ad981f661b27",
+        "question": [
+          {
+            "type": "text",
+            "content": "下列治疗白血病的药物中，哪项属于表观遗传调节药物"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "索拉菲尼",
+            "correct": false,
+            "option_id": "22817821-b299-4c5c-bba5-e931b653504a"
+          },
+          {
+            "type": "text",
+            "content": "Venetoclax",
+            "correct": false,
+            "option_id": "d77e14a7-8423-424b-83c0-f7b858ad361d"
+          },
+          {
+            "type": "text",
+            "content": "阿扎胞苷",
+            "correct": true,
+            "option_id": "ee2fdf34-3498-4e3e-b2a3-212ff1194f5b"
+          },
+          {
+            "type": "text",
+            "content": "吉妥珠单抗",
+            "correct": false,
+            "option_id": "3d418b56-6cdb-4e4d-9189-0fff33885963"
+          },
+          {
+            "type": "text",
+            "content": "维甲酸",
+            "correct": false,
+            "option_id": "69673e2e-9115-4947-a2d9-c927bca82fb9"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第2次平时测试界面抄录",
+            "locator": "第6题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "5cd4721f-2818-4d19-9a64-731fd270c964",
+        "question": [
+          {
+            "type": "text",
+            "content": "关于循证医学的证据分级，以下哪项属于最高级别（一级证据）"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "专家意见",
+            "correct": false,
+            "option_id": "5fc7a46a-34d9-459e-adfe-539bd26295a6"
+          },
+          {
+            "type": "text",
+            "content": "设有对照组但未随机分组的研究",
+            "correct": false,
+            "option_id": "3ad1e6bb-92b7-4c10-9c83-401d5f9d8c6c"
+          },
+          {
+            "type": "text",
+            "content": "无对照的系列病例观察",
+            "correct": false,
+            "option_id": "0a9c4361-f62f-48dc-8574-6fddeae19e4e"
+          },
+          {
+            "type": "text",
+            "content": "单个样本量足够的随机对照试验",
+            "correct": false,
+            "option_id": "c33fd40b-2079-4be4-b56d-49057d41ff0b"
+          },
+          {
+            "type": "text",
+            "content": "多中心、大样本、随机、双盲、安慰剂对照试验",
+            "correct": true,
+            "option_id": "fe4ec06d-c638-4b7b-9beb-14f0ee313e0d"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第2次平时测试界面抄录",
+            "locator": "第7题",
+            "note": "平台逐题公布的正确答案"
+          },
+          {
+            "title": "课程课件: 内科学总论",
+            "locator": "第53页"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "课程课件所采用的证据分级将多中心、大样本、随机双盲安慰剂对照试验列为一级, 单个样本量足够的随机试验列为二级; 不同证据分级体系的划分可能不同。"
+          }
+        ]
+      },
+      {
+        "question_id": "27969f50-a70a-4584-b4d1-9539f0369b0b",
+        "question": [
+          {
+            "type": "text",
+            "content": "下列哪一种病原体属于真核细胞"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "真菌",
+            "correct": true,
+            "option_id": "26e60369-a93d-461b-a84f-cf73b396b5d0"
+          },
+          {
+            "type": "text",
+            "content": "细菌",
+            "correct": false,
+            "option_id": "3f8d616f-78d6-41d8-ac24-72002d63d4c3"
+          },
+          {
+            "type": "text",
+            "content": "病毒",
+            "correct": false,
+            "option_id": "2a83b8e9-2755-4ee8-9a18-6d503dbf9cfb"
+          },
+          {
+            "type": "text",
+            "content": "支原体",
+            "correct": false,
+            "option_id": "1ee39204-6476-4c89-b999-d05f83fa95f6"
+          },
+          {
+            "type": "text",
+            "content": "衣原体",
+            "correct": false,
+            "option_id": "e60fcd05-6d47-495e-9372-8637d995ce46"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第2次平时测试界面抄录",
+            "locator": "第8题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "8a1358a3-3834-4bdc-ac94-a256e2391f0b",
+        "question": [
+          {
+            "type": "text",
+            "content": "我国乙肝病毒的人群感染率明显降低，最主要得益于下列哪项措施？"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "严格消毒措施的实施",
+            "correct": false,
+            "option_id": "b6fb01b9-4f38-4e88-9bdf-313dac8dbde6"
+          },
+          {
+            "type": "text",
+            "content": "有效抗乙肝病毒药物的广泛使用",
+            "correct": false,
+            "option_id": "016a9188-3c48-4bb9-a4f3-6d8290235f82"
+          },
+          {
+            "type": "text",
+            "content": "乙肝疫苗的普遍接种（列入计划免疫）",
+            "correct": true,
+            "option_id": "eacb0c6e-8309-4e94-a7a1-d3f8602c32bc"
+          },
+          {
+            "type": "text",
+            "content": "普遍筛查乙肝感染者",
+            "correct": false,
+            "option_id": "0ebb383e-9b6d-4691-be26-4c7903b3ecc6"
+          },
+          {
+            "type": "text",
+            "content": "乙肝患者教育",
+            "correct": false,
+            "option_id": "54dfa3a4-c168-4810-81a3-e158b0740cd4"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第2次平时测试界面抄录",
+            "locator": "第9题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "47b17d2f-3112-46da-8ec6-7bdba56a5696",
+        "question": [
+          {
+            "type": "text",
+            "content": "出生前可根据成为造血中心时间先后顺序分为三期，其造血主要场所分别是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "骨髓、脾脏、肝脏",
+            "correct": false,
+            "option_id": "113fc677-f93a-4fd5-a515-8e3d7d63b831"
+          },
+          {
+            "type": "text",
+            "content": "卵黄囊、肾脏、肝脏",
+            "correct": false,
+            "option_id": "32c26f5e-f882-449b-887b-0d171ec578e3"
+          },
+          {
+            "type": "text",
+            "content": "卵黄囊、淋巴结、骨髓",
+            "correct": false,
+            "option_id": "ce95dcde-c8ec-47f2-8bee-de4385faf38a"
+          },
+          {
+            "type": "text",
+            "content": "卵黄囊、肝脏、骨髓",
+            "correct": true,
+            "option_id": "32c87d4f-01f3-42b5-8674-03c815d237b9"
+          },
+          {
+            "type": "text",
+            "content": "以上均不正确",
+            "correct": false,
+            "option_id": "93556e27-6c27-4fef-819e-875b9f205e18"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第2次平时测试界面抄录",
+            "locator": "第10题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "d0a6a152-5a8a-4ad5-9c37-602219db0934",
+        "question": [
+          {
+            "type": "text",
+            "content": "下列那一条不属于感染性疾病感染过程的表现（感染谱）"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "病原体被清除",
+            "correct": false,
+            "option_id": "5e72876b-457a-442e-abf6-06af88a1d222"
+          },
+          {
+            "type": "text",
+            "content": "病原体被抗微生物药物杀灭",
+            "correct": true,
+            "option_id": "baf16c2e-6c85-4b86-8a34-1bef0e304411"
+          },
+          {
+            "type": "text",
+            "content": "隐性感染",
+            "correct": false,
+            "option_id": "5b5304f1-eb00-43bf-b483-4084d9118d54"
+          },
+          {
+            "type": "text",
+            "content": "显性感染",
+            "correct": false,
+            "option_id": "a23de772-de39-4859-843d-581176d07071"
+          },
+          {
+            "type": "text",
+            "content": "潜伏感染",
+            "correct": false,
+            "option_id": "83209311-735a-4edf-940c-28aa1d35fe64"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第2次平时测试界面抄录",
+            "locator": "第11题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "97081e54-ab42-4eef-8e63-35cf2e45fb12",
+        "question": [
+          {
+            "type": "text",
+            "content": "关于非霍奇金淋巴瘤，下列说法正确的是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "与霍奇金淋巴瘤相比，不易侵犯结外器官",
+            "correct": false,
+            "option_id": "baf8c5fa-231a-4433-b17d-2ef0be0b8886"
+          },
+          {
+            "type": "text",
+            "content": "可见R-S细胞",
+            "correct": false,
+            "option_id": "7ced46e1-4cb9-4bbe-af65-db13ce847714"
+          },
+          {
+            "type": "text",
+            "content": "非霍奇金淋巴瘤不论分期，均要联合化疗",
+            "correct": false,
+            "option_id": "97cd07bb-6f15-41f6-b99b-1c8f9ebd950a"
+          },
+          {
+            "type": "text",
+            "content": "非霍奇金淋巴瘤不推荐造血干细胞移植治疗",
+            "correct": false,
+            "option_id": "42a683e6-76a4-482a-85cc-98d4a56a0277"
+          },
+          {
+            "type": "text",
+            "content": "年轻、难治易复发的侵袭性淋巴瘤推荐造血干细胞移植治疗",
+            "correct": true,
+            "option_id": "b3c4a6bb-a387-4321-88e5-a43f70e2678b"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第2次平时测试界面抄录",
+            "locator": "第12题",
+            "note": "平台逐题公布的正确答案"
+          },
+          {
+            "title": "British Society for Haematology: Management of relapsed or refractory large B-cell lymphoma",
+            "url": "https://onlinelibrary.wiley.com/doi/10.1111/bjh.20129"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "学在浙大给出答案为E。造血干细胞移植可用于部分符合条件的复发或难治性侵袭性淋巴瘤; 是否适用需结合病理亚型、既往治疗及疗效、体能等因素, 不能仅凭年龄或复发一概决定, 部分患者还需考虑CAR-T等治疗。"
+          }
+        ]
+      },
+      {
+        "question_id": "d1d7a5bb-0347-4aa0-9714-bb6af37766b3",
+        "question": [
+          {
+            "type": "text",
+            "content": "关于血红蛋白的叙述哪一项是错误的"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "由球蛋白及血红素构成",
+            "correct": true,
+            "option_id": "6dfbf92c-61d0-4032-b411-edab4cf24477"
+          },
+          {
+            "type": "text",
+            "content": "是体内主要的含铁蛋白质",
+            "correct": false,
+            "option_id": "61ce3c1e-5320-4e6a-8325-25319cdd0a28"
+          },
+          {
+            "type": "text",
+            "content": "有别构（变构）效应",
+            "correct": false,
+            "option_id": "77624e95-1b1c-45af-8c5d-f87edb743e49"
+          },
+          {
+            "type": "text",
+            "content": "由珠蛋白及血红素构成",
+            "correct": false,
+            "option_id": "099f993b-91e6-4cf3-847d-757ad71a7ae7"
+          },
+          {
+            "type": "text",
+            "content": "在血液运输O2及CO2中起重要作用",
+            "correct": false,
+            "option_id": "ca4ef557-13de-41ee-b966-c18c74804320"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第2次平时测试界面抄录",
+            "locator": "第13题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "ba408905-0315-4ee7-9736-c6e9420e4942",
+        "question": [
+          {
+            "type": "text",
+            "content": "淋巴瘤最典型的临床表现为"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "慢性、进行性、无痛性淋巴结肿大",
+            "correct": true,
+            "option_id": "5b45d49a-4121-4075-86b1-95fbdbd90c45"
+          },
+          {
+            "type": "text",
+            "content": "发热",
+            "correct": false,
+            "option_id": "d9891838-4f13-4820-8ac8-5a1cd060b69f"
+          },
+          {
+            "type": "text",
+            "content": "贫血",
+            "correct": false,
+            "option_id": "d0a3f7de-41a4-49d2-9b2d-332136ac0638"
+          },
+          {
+            "type": "text",
+            "content": "体重减轻",
+            "correct": false,
+            "option_id": "fb904737-b887-4fe2-90da-1c41d420bfd4"
+          },
+          {
+            "type": "text",
+            "content": "肝脾肿大",
+            "correct": false,
+            "option_id": "d8a6ae05-fa1c-4bf2-91ac-b7b50d0d710a"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第2次平时测试界面抄录",
+            "locator": "第14题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "51f66507-13af-4c99-8457-05c19472f913",
+        "question": [
+          {
+            "type": "text",
+            "content": "红细胞生成的基本原料是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "铁、维生素B12",
+            "correct": false,
+            "option_id": "517b78d6-f26a-49ca-90a5-5aff0ee81708"
+          },
+          {
+            "type": "text",
+            "content": "叶酸、维生素B12",
+            "correct": false,
+            "option_id": "1cf7ab7e-0cf1-418e-bd87-146e928e9d4d"
+          },
+          {
+            "type": "text",
+            "content": "蛋白质、叶酸",
+            "correct": false,
+            "option_id": "64f66e9d-697b-441f-85be-dc75d7fc7aaf"
+          },
+          {
+            "type": "text",
+            "content": "蛋白质、维生素B12",
+            "correct": false,
+            "option_id": "56bb8ac5-e9ca-4fc3-bf8b-7aa90c2409dc"
+          },
+          {
+            "type": "text",
+            "content": "铁、蛋白质",
+            "correct": true,
+            "option_id": "b5a24c75-c3d5-4346-8e9d-46196dedaa57"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第2次平时测试界面抄录",
+            "locator": "第15题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "933ebe22-14dd-451b-9fc1-2b6ef579a515",
+        "question": [
+          {
+            "type": "text",
+            "content": "关于现代消化内镜技术的发展，下列哪项不属于治疗性内镜技术？"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "内镜下黏膜切除术（EMR）",
+            "correct": false,
+            "option_id": "a7871478-0573-4a45-bd7b-9efbd2dfa340"
+          },
+          {
+            "type": "text",
+            "content": "内镜黏膜下剥离术（ESD）",
+            "correct": false,
+            "option_id": "0ac41b75-e965-456c-b81f-eaa7da2e369c"
+          },
+          {
+            "type": "text",
+            "content": "经皮内镜引导下胃造口术（PEG）",
+            "correct": false,
+            "option_id": "30497d83-80ae-48a3-9eeb-ed6629b3ccce"
+          },
+          {
+            "type": "text",
+            "content": "胶囊内镜检查",
+            "correct": true,
+            "option_id": "cbd2b5e2-4a9f-46f7-9f3e-1aa29159b3a2"
+          },
+          {
+            "type": "text",
+            "content": "内镜下治疗技术",
+            "correct": false,
+            "option_id": "18d1c28e-0f8c-40c3-9adc-eed739a8b3f4"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第2次平时测试界面抄录",
+            "locator": "第16题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "87046d14-2057-4360-b349-827c6c488d1a",
+        "question": [
+          {
+            "type": "text",
+            "content": "患者男性，14岁。颈淋巴结肿大2周，活检示淋巴结结构破坏，可见R-S细胞。可诊断为"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "传染性单核细胞增多症",
+            "correct": false,
+            "option_id": "92fa1da1-4c28-46e9-8de3-3c5ba3dc7605"
+          },
+          {
+            "type": "text",
+            "content": "淋巴结反应性增生",
+            "correct": false,
+            "option_id": "97047b2d-e218-4220-8eda-d74b57ee110d"
+          },
+          {
+            "type": "text",
+            "content": "霍奇金病",
+            "correct": true,
+            "option_id": "291c7ae3-fcd5-48e6-8d56-b9e7515ce2d3"
+          },
+          {
+            "type": "text",
+            "content": "非霍奇金淋巴瘤",
+            "correct": false,
+            "option_id": "db9c8509-731f-498e-8b52-6ab0f317a997"
+          },
+          {
+            "type": "text",
+            "content": "淋巴结结核",
+            "correct": false,
+            "option_id": "d51fdd95-97dc-425c-97a5-2da1d212d02e"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第2次平时测试界面抄录",
+            "locator": "第17题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "65ec09ea-990a-40c6-8b57-5594e60326d0",
+        "question": [
+          {
+            "type": "text",
+            "content": "急性白血病患者最不可能出现的临床表现是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "匙状甲",
+            "correct": true,
+            "option_id": "34ae4a6c-c859-4eaa-b6be-1326cddb3e07"
+          },
+          {
+            "type": "text",
+            "content": "脸色苍白",
+            "correct": false,
+            "option_id": "bcb11028-ab94-4115-8094-7a01f4dd2c55"
+          },
+          {
+            "type": "text",
+            "content": "牙龈出血",
+            "correct": false,
+            "option_id": "9a9648b0-4596-4788-834a-4b3ec3ce8e17"
+          },
+          {
+            "type": "text",
+            "content": "持续高热",
+            "correct": false,
+            "option_id": "4303fb00-6f60-483c-84c4-78a72b4c966e"
+          },
+          {
+            "type": "text",
+            "content": "间断性血尿",
+            "correct": false,
+            "option_id": "a721ef5c-3183-421c-99dd-5efdc29e8230"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第2次平时测试界面抄录",
+            "locator": "第18题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "eed1de49-023a-4693-a054-90b83bf661c3",
+        "question": [
+          {
+            "type": "text",
+            "content": "淋巴瘤的病因和发病机制迄今尚不清楚，但颇受重视的病原学因素是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "物理因素",
+            "correct": false,
+            "option_id": "82cd8716-4d0c-40f5-ba7f-5de40df8e963"
+          },
+          {
+            "type": "text",
+            "content": "遗传因素",
+            "correct": false,
+            "option_id": "30393b87-fd59-4766-b937-ec97391fbb40"
+          },
+          {
+            "type": "text",
+            "content": "化学因素",
+            "correct": false,
+            "option_id": "6ee4f98e-68f7-4f34-a152-c66856149909"
+          },
+          {
+            "type": "text",
+            "content": "病毒感染",
+            "correct": true,
+            "option_id": "d44fc7a2-576b-4fc1-a63a-424cb0886387"
+          },
+          {
+            "type": "text",
+            "content": "免疫功能低下",
+            "correct": false,
+            "option_id": "77b492aa-1e66-4370-8243-c4cb38dad496"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第2次平时测试界面抄录",
+            "locator": "第19题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "c0e565f6-de63-49a2-bae8-1e23c2d5b37b",
+        "question": [
+          {
+            "type": "text",
+            "content": "下列关于多发性骨髓瘤的说法错误的是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "血片中可看到红细胞呈缗线状",
+            "correct": false,
+            "option_id": "b0fbebf5-4056-4190-83ec-43b541ca5077"
+          },
+          {
+            "type": "text",
+            "content": "血沉显著增快",
+            "correct": false,
+            "option_id": "095c58e9-3c90-49b8-a322-33499220086a"
+          },
+          {
+            "type": "text",
+            "content": "骨髓瘤细胞是异常增殖的浆细胞",
+            "correct": false,
+            "option_id": "f1157b78-1c45-4ec2-aec7-6e289748d387"
+          },
+          {
+            "type": "text",
+            "content": "尿本周蛋白是免疫球蛋白重链出现于尿中所致",
+            "correct": true,
+            "option_id": "44a573b6-65f8-4bcb-9834-85a92365c86b"
+          },
+          {
+            "type": "text",
+            "content": "骨质破坏主要为溶骨性",
+            "correct": false,
+            "option_id": "cbd9b820-87c2-42f5-9341-abbaf28d5007"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第2次平时测试界面抄录",
+            "locator": "第20题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      }
+    ]
+  }
+}

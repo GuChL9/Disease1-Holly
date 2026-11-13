@@ -1,0 +1,1028 @@
+{
+  "title": "平时测试1",
+  "author": [],
+  "description": "答案来自平台公布的正确答案",
+  "mcqs": {
+    "description": "单选题",
+    "questions": [
+      {
+        "question_id": "1f246c7f-5712-4c3d-b691-38e7f12c6eb4",
+        "question": [
+          {
+            "type": "text",
+            "content": "属于诱导性提问的是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "您起病有什么原因",
+            "correct": false,
+            "option_id": "c416e833-9b6e-4a2c-92a5-50bb2d278162"
+          },
+          {
+            "type": "text",
+            "content": "多在什么情况下发病",
+            "correct": false,
+            "option_id": "b89ea1fb-beab-427e-9b91-90470eebbf92"
+          },
+          {
+            "type": "text",
+            "content": "您哪里疼痛",
+            "correct": false,
+            "option_id": "bd7c6bd4-d0a6-4738-87af-ba1cf532303e"
+          },
+          {
+            "type": "text",
+            "content": "您感觉哪儿不舒服",
+            "correct": false,
+            "option_id": "459f8f9b-1de3-4e1e-b736-9cb059979ca1"
+          },
+          {
+            "type": "text",
+            "content": "您上腹痛时向右肩放射吗",
+            "correct": true,
+            "option_id": "c5730a5d-319d-490e-82f4-7dfe16606008"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第1次平时测试界面抄录",
+            "locator": "第1题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "80054713-f059-48af-99a9-0d5a6a3b7085",
+        "question": [
+          {
+            "type": "text",
+            "content": "实施儿童心脏按压时应将手放于哪一位置"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "胸骨中点",
+            "correct": false,
+            "option_id": "18412d9c-a482-4576-9731-938198cdb640"
+          },
+          {
+            "type": "text",
+            "content": "心脏位置",
+            "correct": false,
+            "option_id": "2c5f8c7c-5b8b-4918-abb2-baf30d07b1b5"
+          },
+          {
+            "type": "text",
+            "content": "胸骨的下半段上",
+            "correct": true,
+            "option_id": "d22bc0cb-b3bd-4296-908b-bf5a74594013"
+          },
+          {
+            "type": "text",
+            "content": "胸骨的上半段上",
+            "correct": false,
+            "option_id": "88b06036-18e6-4d50-a627-00af8f4c7e14"
+          },
+          {
+            "type": "text",
+            "content": "上腹部",
+            "correct": false,
+            "option_id": "a22ca2a6-8826-4ad7-a56b-e8b5ea953676"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第1次平时测试界面抄录",
+            "locator": "第2题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "0b5fb5e8-554d-4cf8-ab50-bfd847b1f948",
+        "question": [
+          {
+            "type": "text",
+            "content": "下列体征可采用叩诊法检查，除了"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "二头肌腱反射",
+            "correct": false,
+            "option_id": "934eb91f-9b2b-40f1-ae45-458e8315d567"
+          },
+          {
+            "type": "text",
+            "content": "脾大小",
+            "correct": false,
+            "option_id": "cf521253-629e-49be-9257-1c151843a00f"
+          },
+          {
+            "type": "text",
+            "content": "肝大小",
+            "correct": false,
+            "option_id": "6d076bf5-2df9-49ef-92c7-ec47976ff0a4"
+          },
+          {
+            "type": "text",
+            "content": "Oppenheim征",
+            "correct": true,
+            "option_id": "f5f6af6d-df40-419d-9d3a-d4e8b1eda3c6"
+          },
+          {
+            "type": "text",
+            "content": "肺下缘移动度",
+            "correct": false,
+            "option_id": "b1fca40a-a1d3-4eb3-b185-c10157a7838a"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第1次平时测试界面抄录",
+            "locator": "第3题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "309bc88d-af0b-4ec1-a079-c6271886a6c0",
+        "question": [
+          {
+            "type": "text",
+            "content": "如果在户外发生动物咬伤，以下措施哪个是不合适的"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "冲洗",
+            "correct": false,
+            "option_id": "8b1cd16e-cd4f-4bfd-8986-fb80ba442a35"
+          },
+          {
+            "type": "text",
+            "content": "降温",
+            "correct": false,
+            "option_id": "1e9c2748-5536-4704-9e37-3a391200fba0"
+          },
+          {
+            "type": "text",
+            "content": "阻止扩散",
+            "correct": false,
+            "option_id": "eb8c5c7a-9442-4cd5-adc7-4adf065820f4"
+          },
+          {
+            "type": "text",
+            "content": "用嘴吸出毒素并及时漱口",
+            "correct": true,
+            "option_id": "741e533a-483f-4f73-a3c5-35bfff7500ac"
+          },
+          {
+            "type": "text",
+            "content": "伤口近心端包扎",
+            "correct": false,
+            "option_id": "fc3c458e-eefd-4b48-99d9-9f3270d087f3"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第1次平时测试界面抄录",
+            "locator": "第4题",
+            "note": "平台逐题公布的正确答案"
+          },
+          {
+            "title": "WHO 蛇咬伤救治",
+            "url": "https://www.who.int/teams/control-of-neglected-tropical-diseases/snakebite-envenoming/treatment"
+          },
+          {
+            "title": "课程课件: 心肺复苏及现场安全急救培训2026.9",
+            "locator": "第55页"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "学在浙大给出答案为D, 不应用嘴吸取毒素。题目未限定动物种类; 如果是蛇咬伤, 紧扎止血带或冰敷也不宜一概采用, 应依据当地急救规范处理。"
+          }
+        ]
+      },
+      {
+        "question_id": "fbe301e6-cdf6-4e91-8ac5-bd14fed5bbbf",
+        "question": [
+          {
+            "type": "text",
+            "content": "关于识别X线图像的要点，以下哪项认识是错误的"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "X线图像上，气体呈极低密度黑影",
+            "correct": false,
+            "option_id": "df91c01f-5b0a-4538-9c9a-720aa1186bb8"
+          },
+          {
+            "type": "text",
+            "content": "X线图像上，骨皮质呈高密度白影",
+            "correct": false,
+            "option_id": "f4133927-6257-46f7-b7c9-431501c0a95d"
+          },
+          {
+            "type": "text",
+            "content": "X线图像上，组织结构影像相互重叠",
+            "correct": false,
+            "option_id": "56b2f095-a648-4206-a20e-a604191ad197"
+          },
+          {
+            "type": "text",
+            "content": "X线图像上，脂肪组织为高密度白影",
+            "correct": true,
+            "option_id": "24c5cb5f-cabb-4017-9b56-a5fd36fb4659"
+          },
+          {
+            "type": "text",
+            "content": "X线图像上，肌肉呈中等密度灰影",
+            "correct": false,
+            "option_id": "3c7fbfcd-d50b-48f8-8df3-69ad163748c3"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第1次平时测试界面抄录",
+            "locator": "第5题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "4aa0c2e3-a7cf-44e5-9ef4-798dcd1aa785",
+        "question": [
+          {
+            "type": "text",
+            "content": "下列关于临床思维的原则，说法错误的是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "首先考虑可治性疾病",
+            "correct": false,
+            "option_id": "c517275b-3ec8-4ee1-953c-f3ef97194d81"
+          },
+          {
+            "type": "text",
+            "content": "首先考虑常见病、多发病",
+            "correct": false,
+            "option_id": "fe3a502c-b113-4538-a700-bf2426a8b381"
+          },
+          {
+            "type": "text",
+            "content": "一元论原则",
+            "correct": false,
+            "option_id": "46c2c52d-15c8-4ac2-b18a-cac955d9f0b3"
+          },
+          {
+            "type": "text",
+            "content": "首先考虑当地流行的传染病与地方病",
+            "correct": false,
+            "option_id": "25bce05d-fdc8-4f59-8fd1-c8325d27abcf"
+          },
+          {
+            "type": "text",
+            "content": "首先考虑功能性疾病",
+            "correct": true,
+            "option_id": "4478da6a-66b3-4e75-86d6-cb92e7bf3a09"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第1次平时测试界面抄录",
+            "locator": "第6题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "77892a0c-3f4c-402d-b2ce-38c4e2a3027b",
+        "question": [
+          {
+            "type": "text",
+            "content": "神经介入治疗常用于"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "脑炎",
+            "correct": false,
+            "option_id": "d2bf057c-615e-4875-8592-ab035ca71627"
+          },
+          {
+            "type": "text",
+            "content": "脑血管畸形",
+            "correct": true,
+            "option_id": "2962d5b8-0fc9-4eb9-b810-38bfbe9273f0"
+          },
+          {
+            "type": "text",
+            "content": "脑肿瘤",
+            "correct": false,
+            "option_id": "023f9c9d-3cac-4f77-a837-42c1d0facccf"
+          },
+          {
+            "type": "text",
+            "content": "脑外伤",
+            "correct": false,
+            "option_id": "053d7af0-f86d-4743-ab4d-501685552ab6"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第1次平时测试界面抄录",
+            "locator": "第7题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "04e8c887-9370-470b-8589-94170d583cff",
+        "question": [
+          {
+            "type": "text",
+            "content": "下列关于诊断学的叙述，错误的是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "诊断学的目的仅为对疾病做出确定的病因诊断",
+            "correct": true,
+            "option_id": "a02e1b5b-81a9-47fd-936e-2152ffba3a5c"
+          },
+          {
+            "type": "text",
+            "content": "诊断学是连接基础医学与临床医学的桥梁课程",
+            "correct": false,
+            "option_id": "056cfe24-1bd6-4a47-a6b3-82a10f6dc4c8"
+          },
+          {
+            "type": "text",
+            "content": "正确的诊断是临床治疗的前提和基础",
+            "correct": false,
+            "option_id": "f4089d6a-efc9-4763-b295-d283ef060ae4"
+          },
+          {
+            "type": "text",
+            "content": "诊断学的内容包括问诊、体格检查、实验室检查、辅助检查等",
+            "correct": false,
+            "option_id": "27be2c1c-987b-4843-9352-6d369f9c96e9"
+          },
+          {
+            "type": "text",
+            "content": "诊断学是运用医学基本理论、基本知识和基本技能对疾病进行诊断的一门学科",
+            "correct": false,
+            "option_id": "ee52d071-2d1a-43d8-b53b-cab5e4706c6f"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第1次平时测试界面抄录",
+            "locator": "第8题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "300b432d-9cf0-4e05-851a-364edc46fd29",
+        "question": [
+          {
+            "type": "text",
+            "content": "评估失去反应患者有无呼吸的时间是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "5秒内",
+            "correct": false,
+            "option_id": "d05a4665-8d33-468d-af44-ced464712fb5"
+          },
+          {
+            "type": "text",
+            "content": "5-10秒间",
+            "correct": true,
+            "option_id": "d6cc205a-eeba-491c-90d6-ac3b06ed1fb2"
+          },
+          {
+            "type": "text",
+            "content": "10秒内",
+            "correct": false,
+            "option_id": "9437a0a5-c76f-4602-b49f-cdf952a20b97"
+          },
+          {
+            "type": "text",
+            "content": "3秒内",
+            "correct": false,
+            "option_id": "4a675161-4729-48de-b6bf-e9944f8c5b6c"
+          },
+          {
+            "type": "text",
+            "content": "10秒以上",
+            "correct": false,
+            "option_id": "9630d490-d28d-4b98-87de-fdcd1deb1953"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第1次平时测试界面抄录",
+            "locator": "第9题",
+            "note": "平台逐题公布的正确答案"
+          },
+          {
+            "title": "AHA 成人与儿童基础生命支持技能说明",
+            "url": "https://cpr.heart.org/-/media/cpr2-files/course-materials/2020-bls/advisor-bls/advisor-bls-adult-and-child-cpr_ucm_506621.pdf?la=en"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "学在浙大给出答案为B。AHA基础生命支持材料建议评估反应和呼吸时用5-10秒; C的“10秒内”与该时间范围重叠, 单选区分不够明确。"
+          }
+        ]
+      },
+      {
+        "question_id": "8d918161-e94c-49fa-acec-a0f54392fb7f",
+        "question": [
+          {
+            "type": "text",
+            "content": "有关正常人体温变化的描述，错误的是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "高温环境下体温也可稍升高",
+            "correct": false,
+            "option_id": "bcf142bf-8a0c-4eb8-8920-f436cc12fc4a"
+          },
+          {
+            "type": "text",
+            "content": "下午体温较早晨稍低",
+            "correct": true,
+            "option_id": "517821fe-3b32-44fb-82eb-dc4a5f0f0c62"
+          },
+          {
+            "type": "text",
+            "content": "剧烈运动、劳动或进餐后体温可略升高，但一般波动范围不超1摄氏度",
+            "correct": false,
+            "option_id": "74c703a7-8ff8-418c-bfa9-05d9d1d06a54"
+          },
+          {
+            "type": "text",
+            "content": "妇女月经前及妊娠期体温略高于正常",
+            "correct": false,
+            "option_id": "aca985c7-4f23-429c-baa2-3f8c7ca96643"
+          },
+          {
+            "type": "text",
+            "content": "老年人体温相对低于青壮年",
+            "correct": false,
+            "option_id": "c418cef0-c634-4731-b48a-b7015e5de05d"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第1次平时测试界面抄录",
+            "locator": "第10题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "56a596df-f917-4289-a2b7-178a5eb345a8",
+        "question": [
+          {
+            "type": "text",
+            "content": "下列哪一项最准确地描述了精准医学的核心理念？"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "通过大规模人群筛查，对所有高危人群进行统一干预。",
+            "correct": false,
+            "option_id": "266a4085-53bb-4170-807c-451d982a886e"
+          },
+          {
+            "type": "text",
+            "content": "对所有患者使用相同的标准化治疗方案，确保治疗的规范性。",
+            "correct": false,
+            "option_id": "133f3a65-6956-450a-b6f6-f62ee18b8432"
+          },
+          {
+            "type": "text",
+            "content": "根据患者的基因、环境和生活方式等个体差异，制定个性化的预防和治疗策略。",
+            "correct": true,
+            "option_id": "b9227d45-6b18-4652-b7e8-ebb7ebde7ff3"
+          },
+          {
+            "type": "text",
+            "content": "优先使用进口药物和先进疗法，以提升治疗效果。",
+            "correct": false,
+            "option_id": "1d9e0405-24fb-47e5-a35a-ba42e98f81f4"
+          },
+          {
+            "type": "text",
+            "content": "采用最新高科技设备进行疾病诊断，提高检查的准确性。",
+            "correct": false,
+            "option_id": "0faba606-5e8a-4cc5-b1bb-33ea8bc892a2"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第1次平时测试界面抄录",
+            "locator": "第11题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "212100a6-b81c-465c-a338-5f2bc57a6422",
+        "question": [
+          {
+            "type": "text",
+            "content": "关于黄疸的叙述，下列正确的是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "溶血性黄疸以直接胆红素升高为主",
+            "correct": false,
+            "option_id": "3a60c73b-5ffa-4000-bb64-b2f628c89c1e"
+          },
+          {
+            "type": "text",
+            "content": "溶血性黄疸常伴有皮肤瘙痒",
+            "correct": false,
+            "option_id": "de6f2890-d7a2-4900-96d1-846b076f9642"
+          },
+          {
+            "type": "text",
+            "content": "肝细胞性黄疸仅见间接胆红素升高",
+            "correct": false,
+            "option_id": "236ce4e1-2b80-436c-8f6a-e79ef8904f9a"
+          },
+          {
+            "type": "text",
+            "content": "肝细胞性黄疸尿胆红素阴性",
+            "correct": false,
+            "option_id": "9dc64064-d8cf-4fd9-9be7-2e23ccd4031e"
+          },
+          {
+            "type": "text",
+            "content": "梗阻性黄疸粪便颜色可呈陶土色",
+            "correct": true,
+            "option_id": "aa5d1746-4609-4f81-a9d8-733763335e5b"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第1次平时测试界面抄录",
+            "locator": "第12题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "d1604ba8-3a8e-455f-b6e2-afc024c3a2af",
+        "question": [
+          {
+            "type": "text",
+            "content": "对儿童施救单人CPR的按压与通气比为"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "20:2",
+            "correct": false,
+            "option_id": "1334108f-31e1-4588-9da5-9946f38ede01"
+          },
+          {
+            "type": "text",
+            "content": "5:1",
+            "correct": false,
+            "option_id": "ab6a0f13-6fb8-4257-99ec-6873f76bc2f0"
+          },
+          {
+            "type": "text",
+            "content": "10:2",
+            "correct": false,
+            "option_id": "f476a593-7434-47f8-a534-af977312198e"
+          },
+          {
+            "type": "text",
+            "content": "15:2",
+            "correct": false,
+            "option_id": "da99b10e-c468-4b2a-b277-efc09ddc6a57"
+          },
+          {
+            "type": "text",
+            "content": "30:2",
+            "correct": true,
+            "option_id": "5bf21527-2fae-4704-82e4-47ab0fdbc61e"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第1次平时测试界面抄录",
+            "locator": "第13题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "a5992aa0-21c2-4bc8-8e4b-b9186d8d40f0",
+        "question": [
+          {
+            "type": "text",
+            "content": "患者男性，55岁，上腹部无规律性疼痛、消瘦1年，胃镜示胃小弯处有一个2cm×2cm大小溃病，边缘不整齐，有坏死，少量渗血。查体表浅淋巴结对诊断意义最大的是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "腹股沟",
+            "correct": false,
+            "option_id": "97801e34-2478-45c1-a4b7-018c081e5b16"
+          },
+          {
+            "type": "text",
+            "content": "颈前、颈后",
+            "correct": false,
+            "option_id": "11b1162d-8a7c-46aa-a6cc-e45904d56289"
+          },
+          {
+            "type": "text",
+            "content": "枕后",
+            "correct": false,
+            "option_id": "a830d0dd-ed6b-4eaf-8002-a7521cad9931"
+          },
+          {
+            "type": "text",
+            "content": "腋下",
+            "correct": false,
+            "option_id": "bc087405-a380-4f09-80ff-a0d65b658dd1"
+          },
+          {
+            "type": "text",
+            "content": "锁骨上窝",
+            "correct": true,
+            "option_id": "665a7568-1506-499a-a1af-bdcdb1296dbf"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第1次平时测试界面抄录",
+            "locator": "第14题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "f7d7231c-1e8e-4541-9abf-528a447413ab",
+        "question": [
+          {
+            "type": "text",
+            "content": "以下属于经皮肾穿刺活检术的禁忌证的是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "孤立肾",
+            "correct": true,
+            "option_id": "92672fa7-3f52-4c0e-973e-13a06bef11fa"
+          },
+          {
+            "type": "text",
+            "content": "原发性肾病综合征",
+            "correct": false,
+            "option_id": "25c2b77c-4465-4fda-9338-b0745f663a22"
+          },
+          {
+            "type": "text",
+            "content": "糖尿病肾病",
+            "correct": false,
+            "option_id": "469f0646-5777-4585-bd40-c61a75072c3b"
+          },
+          {
+            "type": "text",
+            "content": "狼疮性肾炎",
+            "correct": false,
+            "option_id": "58d7cb2a-5210-46a7-abc9-f43c5d5b8e92"
+          },
+          {
+            "type": "text",
+            "content": "肾淀粉样病变",
+            "correct": false,
+            "option_id": "1cf35c0b-c2c3-432a-97f8-9ef9d111a806"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第1次平时测试界面抄录",
+            "locator": "第15题",
+            "note": "平台逐题公布的正确答案"
+          },
+          {
+            "title": "The Native Kidney Biopsy: Update and Evidence for Best Practice",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4741037/"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "学在浙大给出答案为A。孤立肾传统上被列为肾活检禁忌; 现代实践常将其视为相对禁忌, 需结合获益、出血风险及操作者经验个体评估。"
+          }
+        ]
+      },
+      {
+        "question_id": "3e540da6-b0dd-47fc-af67-09863eeef440",
+        "question": [
+          {
+            "type": "text",
+            "content": "心肺复苏急救时，通常开放气道的最佳方法是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "最大张口",
+            "correct": false,
+            "option_id": "fc40898c-ac48-4adc-89d4-308742d3683a"
+          },
+          {
+            "type": "text",
+            "content": "单纯头后仰",
+            "correct": false,
+            "option_id": "e074aaff-fe9a-4c5f-a8dc-a0eacee9d046"
+          },
+          {
+            "type": "text",
+            "content": "拉舌-手指清理",
+            "correct": false,
+            "option_id": "c1384b17-7341-4145-8cfa-505e573eef80"
+          },
+          {
+            "type": "text",
+            "content": "使用面罩",
+            "correct": false,
+            "option_id": "8fea038e-6795-4329-975b-081850fe2a55"
+          },
+          {
+            "type": "text",
+            "content": "仰头提颏法",
+            "correct": true,
+            "option_id": "77c954e2-8845-4271-a1b8-7a7fa89ea237"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第1次平时测试界面抄录",
+            "locator": "第16题",
+            "note": "平台逐题公布的正确答案"
+          },
+          {
+            "title": "AHA Adult Basic Life Support: Airway Opening",
+            "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "通常可采用仰头提颏法开放气道。有头颈部损伤嫌疑时, 受过训练的施救者可先尝试托颌法; 如不能开放气道, 仍需及时采取有效措施保证通气。"
+          }
+        ]
+      },
+      {
+        "question_id": "dce82658-4948-4879-8816-42253b3cf1d6",
+        "question": [
+          {
+            "type": "text",
+            "content": "下列关于体格检查的注意事项，说法错误的是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "必要时根据病情变化进行复查",
+            "correct": false,
+            "option_id": "d3ae4cd7-e237-4143-abb2-47a9e43a0ef3"
+          },
+          {
+            "type": "text",
+            "content": "常规站在患者的左边",
+            "correct": true,
+            "option_id": "de79529a-558b-4c62-8523-a9aced5b888d"
+          },
+          {
+            "type": "text",
+            "content": "全身体格检查要力求全面、系统",
+            "correct": false,
+            "option_id": "bfb344d4-bc0d-4d76-8bc8-7f5e9afa3b71"
+          },
+          {
+            "type": "text",
+            "content": "光线应适当，温度适宜",
+            "correct": false,
+            "option_id": "caf13c38-bee1-400e-a607-09fb43decd2a"
+          },
+          {
+            "type": "text",
+            "content": "左、右及相邻部位对照检查",
+            "correct": false,
+            "option_id": "69118331-8567-47da-837b-c96f8f9aa49f"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第1次平时测试界面抄录",
+            "locator": "第17题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "7b903fdb-303c-4087-9214-3a8814139d80",
+        "question": [
+          {
+            "type": "text",
+            "content": "男性，45岁，胸闷、呼吸困难1周入院。查肺功能示：VC%为80%，FEV₁/FVC为65%，MVV为70%，RV/TLC为30%，TLC为7000ml，下列最可能的是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "大气道功能受损",
+            "correct": false,
+            "option_id": "8657dd39-a382-477e-8983-d443b853272a"
+          },
+          {
+            "type": "text",
+            "content": "限制性通气功能障碍",
+            "correct": false,
+            "option_id": "2a848b10-80a9-48e5-a188-4e4ce32d8853"
+          },
+          {
+            "type": "text",
+            "content": "混合性通气功能障碍",
+            "correct": false,
+            "option_id": "d18b720d-bb9e-405f-8ec0-a9a4eff5fa42"
+          },
+          {
+            "type": "text",
+            "content": "阻塞性通气功能障碍",
+            "correct": true,
+            "option_id": "8c01bfa6-67c0-432a-b660-0dfa45b518dd"
+          },
+          {
+            "type": "text",
+            "content": "小气道功能受损",
+            "correct": false,
+            "option_id": "1cc2eb5e-f583-4c93-b856-950b8595072f"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第1次平时测试界面抄录",
+            "locator": "第18题",
+            "note": "平台逐题公布的正确答案"
+          },
+          {
+            "title": "课程课件: 辅助检查",
+            "locator": "第24-25页"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "FEV₁/FVC为65%提示阻塞性通气障碍; 判断慢阻肺还需结合支气管舒张后肺功能及临床情况。题目未提供TLC预计值, 不能仅凭7000 mL推断限制性通气障碍。"
+          }
+        ]
+      },
+      {
+        "question_id": "c3119dbb-188e-4182-9482-8793d92e3402",
+        "question": [
+          {
+            "type": "text",
+            "content": "正常肺部的诊音"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "鼓音",
+            "correct": false,
+            "option_id": "ec3c5aee-d942-41f7-985a-934ca400ccb3"
+          },
+          {
+            "type": "text",
+            "content": "清音",
+            "correct": true,
+            "option_id": "202fec97-7ad4-42e8-8dd0-499d450cd4f4"
+          },
+          {
+            "type": "text",
+            "content": "过清音",
+            "correct": false,
+            "option_id": "1ec7e8d1-a41e-441d-b772-e3f21b869434"
+          },
+          {
+            "type": "text",
+            "content": "实音",
+            "correct": false,
+            "option_id": "a9ac4c80-2502-44dc-bfaf-10c57a26f822"
+          },
+          {
+            "type": "text",
+            "content": "浊音",
+            "correct": false,
+            "option_id": "d1a3ed60-c212-40c1-ba34-dfb57b98e670"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第1次平时测试界面抄录",
+            "locator": "第19题",
+            "note": "平台逐题公布的正确答案"
+          }
+        ]
+      },
+      {
+        "question_id": "d1e20fec-9ec8-483f-a3ed-df17c190024b",
+        "question": [
+          {
+            "type": "text",
+            "content": "继发性肺结核X线表现错误的是"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "浸润为主型",
+            "correct": false,
+            "option_id": "8feb4fdc-0f9e-4a86-9493-ab6e3e51c43a"
+          },
+          {
+            "type": "text",
+            "content": "空洞",
+            "correct": false,
+            "option_id": "b358389e-abc4-4e9c-8167-ae476d267823"
+          },
+          {
+            "type": "text",
+            "content": "结核球",
+            "correct": false,
+            "option_id": "6c42cece-1ca7-4777-a19d-739336b9228d"
+          },
+          {
+            "type": "text",
+            "content": "胸膜炎",
+            "correct": true,
+            "option_id": "66f9cb67-5e6f-4130-9b39-19d5c506ef23"
+          },
+          {
+            "type": "text",
+            "content": "干酪为主型",
+            "correct": false,
+            "option_id": "9286b22c-8c3a-4fb7-8ded-d246cbeffb4c"
+          }
+        ],
+        "sources": [
+          {
+            "title": "2026-2027秋重要疾病Ⅰ第1次平时测试界面抄录",
+            "locator": "第20题",
+            "note": "平台逐题公布的正确答案"
+          },
+          {
+            "title": "课程课件: 肺结核基础医学",
+            "locator": "第45、52页"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "学在浙大给出答案为D。课程按结核病分类将浸润性病变、空洞、结核球和干酪性肺炎列入继发性肺结核, 将结核性胸膜炎另列; 这不意味着继发性肺结核不会累及胸膜。"
+          }
+        ]
+      }
+    ]
+  }
+}
